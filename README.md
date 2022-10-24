@@ -24,11 +24,8 @@ View our wiki for info on additions, items, quests, etc.
 
 # Instalation
 
-Download latest release
+Download release
 
-Put in mod folder
-
-Profit
 
 
 # At A Glance 
