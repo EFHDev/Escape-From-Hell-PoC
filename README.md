@@ -48,11 +48,9 @@ The Altered Escape community
 
 King, Nehax, Pixel, Kovacs, Life, Estam, all those feckers over there
 
-Paulov (Love ya man)
+Paulov (Creator of SIT, which is what this is based off of.)
+
 KMYUHKYUK for your lovely enviroment replace addon :)
 
 My mental sanity
 
-And last but not least 
-
-The SPT-AKI Team, for making this possible, 
