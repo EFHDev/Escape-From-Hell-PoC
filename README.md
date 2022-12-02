@@ -2,7 +2,7 @@
 
 ### NOT FOR REDISTRIBUTE WITHOUT PERMISSION.
 
-Escape From Hell is a hardcore-themed fork of SPT-AKI designed around making the game more realistic and hard.  
+Escape From Hell is a hardcore-themed fork of SIT designed around making the game more realistic and hard.  
 
 # Discord n Trello
 
