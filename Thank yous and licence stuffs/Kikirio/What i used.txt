@@ -1,0 +1,7 @@
+I used TraderLevelTweaks to learn how to modify trader settings through configs. (traders[trader].base.unlockedByDefault for example) through a server mod,
+
+File used: https://github.com/kieran-boyle/Mods/blob/689b4cb30cb6eba3d57ae2dee300b937a49e4775/Kiki-TraderLevelTweeks/src/TraderLevelTweeks.js
+Learned with this file to make UnlockTraders.js in EFH-Core server mod.
+
+Thank you kiki for writing this code so i can look at it, ponder for hours, and wonder "hmmm can i do this with that" <3
+

@@ -1,0 +1,12 @@
+I used, alot of sams code in my early days of modding, my first mod, "AVERAGE SIZED 1911 SLIDE" was made using the code from his benelli m4 i think?
+Then on, i used sams code as a referenace alot to learn how to work this SPT-AKI modding system, as i was a jet n00b, so if something wasnt working right,
+i would pull up one of sams mod and compare it to my mod, see what i did wrong, see how to fix it, and learn from what i did wrong, 
+
+Sam is a great guy who makes extremly awesome mods, if you play SPT-AKI and you havent heard of him, your probally blind and deaf haha, 
+
+Files used:
+1. https://hub.sp-tarkov.com/files/file/679-leupold-d-evo/ (Older version of the mod, as EFH uses older version of SPT-AKI mod loader) 
+2. https://hub.sp-tarkov.com/files/file/332-l85-sa80-a2-british-assault-rifle/ (Older version, see above)
+Used as the template of my first mod on the hub, used for a bunch of abandoned mods, used sams template to quickly test bundles n shit
+
+

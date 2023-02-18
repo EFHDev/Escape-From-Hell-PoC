@@ -1,0 +1,10 @@
+I tried to use his client mod to learn how to detect damage, and add a temp buff, and then debuffs, basiclly his Adrenaline mod, but with debuffs of getting shot, 
+also tried to use it to do my medical debuff system, but that fell flat :kekw: 
+
+Eventually both these systems will probally make their way into EFH, and he will be to thank for them for his source on Adrenaline, showing me how the fuck damage 
+detection works
+
+He makes awesome mods, he's a funny guy, and in my world, uncanonicly he likes belgium sasuages.
+
+Files used: https://github.com/kobrakon/Adrenaline/blob/main/Adrenaline/AdrenalinePatch.cs
+Used in: Unreleased EFH-Health.dll
