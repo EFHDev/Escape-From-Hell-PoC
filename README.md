@@ -48,7 +48,13 @@ The Altered Escape community
 
 King, Nehax, Pixel, Kovacs, Life, Estam, all those feckers over there
 
+AKI Community, Special mentions to
+
+Katto, SSH, SamSwat, JustNu(You know what you did Nu..) neif, Kobrakon, Hazel (*You're, Raccoon manager), Rockahorse, and chomp, 
+
 Paulov (Creator of SIT, which is what this is based on.)
 
 My mental sanity
+
+30mg of adderall a day
 
