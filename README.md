@@ -1,7 +1,5 @@
 # Escape from Hell
 
-### NOT FOR REDISTRIBUTION WITHOUT PERMISSION.
-
 Escape From Hell is a hardcore-themed fork of SIT designed around making the game more realistic and hard.  
 
 # Discord n Trello
@@ -16,9 +14,9 @@ https://trello.com/b/CNjebPJb/escape-from-hell-to-do
 
 # Lore shit
 
-"In 2016, our government made the norvinsk region. It was a great feat, a whole new pipeline in coordination with the finniskis, But then hell let loose. Only 2 years after the pipeline was finished, Terra group was uncovered to be doing massive amounts of illegal activities under official contracts. It sent our little "home" into dismay, becoming a warzone between two PMC groups. Bear, and USEC. While we, the civilians were left to fend for ourselves. We formed groups to fight back both of these groups just to survive. But every day you hear about another group falling... But one day... We will all Escape from Tarkov..."
+"In 2016, the Norvinsk region was established by our government, in a joint effort with the Finniskis, to construct a new pipeline. However, what followed was an unimaginable nightmare. Merely two years after the pipeline's completion, it was revealed that Terra Group had been engaged in massive illegal activities, operating under the guise of official contracts. Our once peaceful 'home' was thrown into chaos as it became a battleground between two powerful private military companies, Bear and USEC, leaving us civilians to fend for ourselves. We banded together to fight against these factions and survive, but every day, we hear of another group falling. Despite the odds, we hold onto hope that one day we'll all be able to Escape From Tarkov.
 
-Escape from Hell is set mere months after the collapse of the Norvinsk region. You play as a Civilian. Limited money, connections, provisions, and worst of all, humanity. Will you survive and Escape from Tarkov?
+Escape from Hell takes place just months after the collapse of the Norvinsk region goverment, and puts you in the shoes of a civilian. You are faced with limited resources, connections, and provisions, and most importantly, the struggle to maintain your humanity in a brutal world. Can you endure the hardships and ultimately escape from Tarkov?"
 
 # other shit
 
@@ -50,7 +48,13 @@ The Altered Escape community
 
 King, Nehax, Pixel, Kovacs, Life, Estam, all those feckers over there
 
+AKI Community, Special mentions to
+
+Katto, SSH, SamSwat, JustNu(You know what you did Nu..) neif, Kobrakon, Hazel (*You're, Raccoon manager), Rockahorse, and chomp, 
+
 Paulov (Creator of SIT, which is what this is based on.)
 
 My mental sanity
+
+30mg of adderall a day
 
