@@ -1,7 +1,5 @@
 # Escape from Hell
 
-### NOT FOR REDISTRIBUTION WITHOUT PERMISSION.
-
 Escape From Hell is a hardcore-themed fork of SIT designed around making the game more realistic and hard.  
 
 # Discord n Trello
