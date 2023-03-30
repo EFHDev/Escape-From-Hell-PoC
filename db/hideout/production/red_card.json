@@ -1,0 +1,35 @@
+{
+	"_id": "red_card",
+	"areaType": 11,
+	"requirements": [
+		{
+			"areaType": 11,
+			"requiredLevel": 2,
+			"type": "Area"
+		},
+		{
+			"templateId": "5eff135be0d3331e9d282b7b",
+			"count": 2,
+			"isFunctional": false,
+			"type": "Item"
+		},
+        {
+			"templateId": "5c1d0efb86f7744baf2e7b7b",
+			"count": 2,
+			"isFunctional": false,
+			"type": "Item"
+		},
+		{
+			"templateId": "BlankKeycard",
+			"count": 2,
+			"isFunctional": false,
+			"type": "Item"
+		}
+	],
+	"productionTime": 5500,
+	"boosters": null,
+	"endProduct": "5c1d0efb86f7744baf2e7b7b",
+	"continuous": false,
+	"count": 2,
+	"productionLimitCount": 0
+}

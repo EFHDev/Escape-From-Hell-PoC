@@ -1,0 +1,255 @@
+[
+	{
+		"_id": "627bce33f21bc425b06ab967",
+		"_name": "mag_msgl_milkor_cylinder_mag_std_40x46_6",
+		"_parent": "627a137bf21bc425b06ab944",
+		"_type": "Item",
+		"_props": {
+			"Name": "mag_mc_255_cillinder_5",
+			"ShortName": "mag_mc_255_cillinder_5",
+			"Description": "mag_mc_255_cillinder_5",
+			"Weight": 0.8,
+			"BackgroundColor": "yellow",
+			"Width": 2,
+			"Height": 2,
+			"StackMaxSize": 1,
+			"ItemSound": "magazine_metal",
+			"Prefab": {
+				"path": "assets/content/items/mods/magazines/mag_msgl_milkor_cylinder_mag_std_40x46_6.bundle",
+				"rcid": ""
+			},
+			"UsePrefab": {
+				"path": "",
+				"rcid": ""
+			},
+			"StackObjectsCount": 1,
+			"NotShownInSlot": false,
+			"ExaminedByDefault": true,
+			"ExamineTime": 1,
+			"IsUndiscardable": false,
+			"IsUnsaleable": false,
+			"IsUnbuyable": false,
+			"IsUngivable": false,
+			"IsLockedafterEquip": false,
+			"QuestItem": false,
+			"LootExperience": 20,
+			"ExamineExperience": 2,
+			"HideEntrails": false,
+			"RepairCost": 0,
+			"RepairSpeed": 0,
+			"ExtraSizeLeft": 0,
+			"ExtraSizeRight": 0,
+			"ExtraSizeUp": 0,
+			"ExtraSizeDown": 0,
+			"ExtraSizeForceAdd": false,
+			"MergesWithChildren": true,
+			"CanSellOnRagfair": true,
+			"CanRequireOnRagfair": true,
+			"ConflictingItems": [],
+			"Unlootable": false,
+			"UnlootableFromSlot": "FirstPrimaryWeapon",
+			"UnlootableFromSide": [],
+			"AnimationVariantsNumber": 0,
+			"DiscardingBlock": false,
+			"RagFairCommissionModifier": 1,
+			"IsAlwaysAvailableForInsurance": false,
+			"DiscardLimit": -1,
+			"DropSoundType": "None",
+			"Grids": [],
+			"Slots": [
+				{
+					"_name": "camora_000",
+					"_id": "627bce33f21bc425b06ab969",
+					"_parent": "627bce33f21bc425b06ab967",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"5ede474b0c226a66f5402622",
+									"5ede475b549eed7c6d5c18fb",
+									"5ede4739e0350d05467f73e8",
+									"5f0c892565703e5c461894e9",
+									"5ede47405b097655935d7d16",
+									"5ede475339ee016e8c534742"
+								],
+								"MaxStackCount": 1
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d4af244bdc2d962f8b4571"
+				},
+				{
+					"_name": "camora_001",
+					"_id": "627bce33f21bc425b06ab96a",
+					"_parent": "627bce33f21bc425b06ab967",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"5ede474b0c226a66f5402622",
+									"5ede475b549eed7c6d5c18fb",
+									"5ede4739e0350d05467f73e8",
+									"5f0c892565703e5c461894e9",
+									"5ede47405b097655935d7d16",
+									"5ede475339ee016e8c534742"
+								],
+								"MaxStackCount": 1
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d4af244bdc2d962f8b4571"
+				},
+				{
+					"_name": "camora_002",
+					"_id": "627bce33f21bc425b06ab96b",
+					"_parent": "627bce33f21bc425b06ab967",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"5ede474b0c226a66f5402622",
+									"5ede475b549eed7c6d5c18fb",
+									"5ede4739e0350d05467f73e8",
+									"5f0c892565703e5c461894e9",
+									"5ede47405b097655935d7d16",
+									"5ede475339ee016e8c534742"
+								],
+								"MaxStackCount": 1
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d4af244bdc2d962f8b4571"
+				},
+				{
+					"_name": "camora_003",
+					"_id": "627bce33f21bc425b06ab96c",
+					"_parent": "627bce33f21bc425b06ab967",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"5ede474b0c226a66f5402622",
+									"5ede475b549eed7c6d5c18fb",
+									"5ede4739e0350d05467f73e8",
+									"5f0c892565703e5c461894e9",
+									"5ede47405b097655935d7d16",
+									"5ede475339ee016e8c534742"
+								],
+								"MaxStackCount": 1
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d4af244bdc2d962f8b4571"
+				},
+				{
+					"_name": "camora_004",
+					"_id": "627bce33f21bc425b06ab96d",
+					"_parent": "627bce33f21bc425b06ab967",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"5ede474b0c226a66f5402622",
+									"5ede475b549eed7c6d5c18fb",
+									"5ede4739e0350d05467f73e8",
+									"5f0c892565703e5c461894e9",
+									"5ede47405b097655935d7d16",
+									"5ede475339ee016e8c534742"
+								],
+								"MaxStackCount": 1
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d4af244bdc2d962f8b4571"
+				},
+				{
+					"_name": "camora_005",
+					"_id": "627bcf229a792437bb15124b",
+					"_parent": "627bce33f21bc425b06ab967",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"5ede474b0c226a66f5402622",
+									"5ede475b549eed7c6d5c18fb",
+									"5ede4739e0350d05467f73e8",
+									"5f0c892565703e5c461894e9",
+									"5ede47405b097655935d7d16",
+									"5ede475339ee016e8c534742"
+								],
+								"MaxStackCount": 1
+							}
+						]
+					},
+					"_required": false,
+					"_mergeSlotWithChildren": false,
+					"_proto": "55d4af244bdc2d962f8b4571"
+				}
+			],
+			"CanPutIntoDuringTheRaid": true,
+			"CantRemoveFromSlotsDuringRaid": [],
+			"Durability": 100,
+			"Accuracy": 0,
+			"Recoil": -1,
+			"Loudness": 0,
+			"EffectiveDistance": 0,
+			"Ergonomics": -10,
+			"Velocity": 0,
+			"RaidModdable": false,
+			"ToolModdable": false,
+			"BlocksFolding": false,
+			"BlocksCollapsible": false,
+			"IsAnimated": true,
+			"HasShoulderContact": false,
+			"SightingRange": 0,
+			"DoubleActionAccuracyPenaltyMult": 1,
+			"magAnimationIndex": 0,
+			"Cartridges": [
+				{
+					"_name": "cartridges",
+					"_id": "627bce33f21bc425b06ab96e",
+					"_parent": "627bce33f21bc425b06ab967",
+					"_max_count": 0,
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"5ede474b0c226a66f5402622",
+									"5ede475b549eed7c6d5c18fb",
+									"5ede4739e0350d05467f73e8",
+									"5f0c892565703e5c461894e9",
+									"5ede47405b097655935d7d16",
+									"5ede475339ee016e8c534742",
+									"5ede47641cf3836a88318df1"
+								]
+							}
+						]
+					},
+					"_proto": "5748538b2459770af276a261"
+				}
+			],
+			"CanFast": false,
+			"CanHit": false,
+			"CanAdmin": false,
+			"LoadUnloadModifier": 0,
+			"CheckTimeModifier": 0,
+			"CheckOverride": 0,
+			"ReloadMagType": "InternalMagazine",
+			"VisibleAmmoRangesString": "",
+			"MalfunctionChance": 0,
+			"TagColor": 0,
+			"TagName": ""
+		},
+		"_proto": "55d4837c4bdc2d1d4e8b456c"
+	}
+]

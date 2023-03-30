@@ -1,0 +1,300 @@
+/*
+* MaociStyle v1.0.0 - a lightweight boilerplate style
+* Created by TheMaoci 01/11/2019 using some things from Skeleton library
+* Skeleton library - Dave Gamache - getskeleton.com
+*/
+/* Maoci Website styles */
+@font-face {
+	font-family: Bender;
+	src: url("bender.light.otf") format("opentype");
+}
+* {
+	letter-spacing: 0.15rem;
+	font-family: Bender;
+}
+body {
+	color: red!important;
+	background: black;
+}
+li {
+	color: #e1e0c6 !important
+}
+a {
+	color: aqua;
+	font-size: 14px;
+	text-decoration: none;
+}
+i {
+	color: rgba(255, 0, 0, 0.7)
+}
+i b {
+	color: rgba(255, 0, 0, 0.9)
+}
+a:hover {
+	color: #f00;
+}
+.ft {
+	position: fixed;
+	bottom: 0px;
+	width: 100%;
+	text-align: left;
+	padding: 5px;
+}
+h1 {
+	font-size: 3rem!important;
+	line-height: 3.5rem;
+	text-transform: capitalize;
+}
+h2 {
+	font-size:2rem!important;
+	line-height:2rem!important;
+	margin:0!important;
+	padding:0!important;
+	text-transform: capitalize;
+}
+h3 {
+	margin:0!important;
+	padding:0!important;
+	text-transform: capitalize;
+}
+
+/* Form */
+.form{
+	margin:15px auto;
+	border-radius:2px;
+}
+.form div{ padding:20px;}
+.form h1{
+	display: block;
+	text-align: center;
+	padding: 0;
+	margin: 0px 0px 20px 0px;
+	color: #5C5C5C;
+	font-size:x-large;
+}
+.form ul{
+	list-style:none;
+	padding:0;
+	margin:0;	
+}
+.form li{
+	display: block;
+	padding: 9px;
+	border:1px solid #DDDDDD;
+	margin-bottom: 30px;
+	border-radius: 3px;
+}
+.form li.submit{
+	border:none;
+	margin-bottom: 0px;
+	text-align: center;
+}
+.form li > label{
+	display: block;
+	float: left;
+	margin-top: -33px;
+	height: 18px;
+	padding: 2px 5px 2px 5px;
+	color: #F00;
+	font-size: 16px;
+	font-height: 900;
+	overflow: hidden;
+	text-transform: capitalize;
+}
+.form input[type="text"],
+.form input[type="date"],
+.form input[type="datetime"],
+.form input[type="email"],
+.form input[type="number"],
+.form input[type="search"],
+.form input[type="time"],
+.form input[type="url"],
+.form input[type="password"],
+.form textarea,
+.form select 
+{
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	width: 100%;
+	display: block;
+	outline: none;
+	border: none;
+	height: 25px;
+	line-height: 25px;
+	font-size: 16px;
+	padding: 0 0 0 10px;
+	background: #555555aa;
+	color: #fff;
+}
+.form input[type="text"]:focus,
+.form input[type="date"]:focus,
+.form input[type="datetime"]:focus,
+.form input[type="email"]:focus,
+.form input[type="number"]:focus,
+.form input[type="search"]:focus,
+.form input[type="time"]:focus,
+.form input[type="url"]:focus,
+.form input[type="password"]:focus,
+.form textarea:focus,
+.form select:focus 
+{
+}
+.form li > span{
+	background: #555555aa;
+	display: block;
+	padding: 3px;
+	margin: 5px -9px -9px -9px;
+	text-align: center;
+	color: #fff;
+	font-size: 11px;
+	text-transform: capitalize;
+}
+.form textarea{
+	resize:none;
+}
+.form input[type="submit"],
+.form input[type="button"]{
+	background: #555555aa;
+	border: none;
+	padding: 10px 20px 10px 20px;
+	border-bottom: 3px solid #F00;
+	border-radius: 3px;
+	color: #fff;
+}
+.form input[type="submit"]:hover,
+.form input[type="button"]:hover{
+	background: #888888aa;
+	color:#FF0;
+}
+
+/* Grid */
+.container {
+	position: relative;
+	width: 100%;
+	max-width: 960px;
+	margin: 0 auto;
+	padding: 0 20px;
+	box-sizing: border-box;
+}
+.columns {
+	width: 100%;
+	float: left;
+	box-sizing: border-box;
+}
+/* For devices larger than 400px */
+@media (min-width: 400px) {
+	.container {
+		width: 85%;
+		padding: 0;
+	}
+}
+/* For devices larger than 550px */
+@media (min-width: 550px) {
+	.container {
+		width: 80%;
+	}
+	.columns {
+		margin-left: 4%;
+	}
+	.columns:first-child {
+		margin-left: 0;
+	}
+	/* Offsets */
+}
+/* Base Styles */
+/* NOTE: html is set to 62.5% so that all the REM measurements throughout Skeleton are based on 10px sizing. So basically 1.5rem = 15px :) */
+html {
+	font-size: 62.5%;
+}
+body {
+	font-size: 1.5em;
+	line-height: 1.6;
+	font-weight: 400;
+}
+/* Typography */
+h1 {
+	margin-top: 0;
+	margin-bottom: 2rem;
+	font-weight: 300;
+}
+h1 {
+	font-size: 4.0rem;
+	line-height: 1.2;
+	letter-spacing: -.1rem;
+}
+/* Larger than phablet */
+@media (min-width: 550px) {
+	h1 {
+		font-size: 5.0rem;
+	}
+}
+@media (min-width: 1000px) {
+	h1 {
+		font-size: 3.0rem;
+	}
+}
+p {
+	margin-top: 0;
+}
+.container:after,
+.row:after {
+	content: "";
+	display: table;
+	clear: both;
+}
+/* Media Queries */
+@media (max-width: 700px) {
+	.one.column,
+	.one.columns,
+	.two.columns,
+	.three.columns,
+	.four.columns,
+	.five.columns,
+	.six.columns,
+	.seven.columns,
+	.eight.columns,
+	.nine.columns,
+	.ten.columns,
+	.eleven.columns,
+	.twelve.columns {
+		width: 100%;
+		margin-left: 0;
+	}
+}
+@media (min-width: 700px) {
+	.one.column,
+	.one.columns,
+	.two.columns,
+	.three.columns,
+	.four.columns,
+	.five.columns,
+	.six.columns {
+		width: 48%;
+		margin-left: 0;
+	}
+	.seven.columns,
+	.eight.columns,
+	.nine.columns,
+	.ten.columns,
+	.eleven.columns,
+	.twelve.columns {
+		width: 100%; 
+		margin-left: 0;
+	}
+}
+@media (min-width: 1200px) {
+	.one.column,
+	.one.columns { width: 4.66666666667%; }
+	.two.columns { width: 13.3333333333%; }
+	.three.columns { width: 22%; }
+	.four.columns { width: 30.6666666667%; }
+	.five.columns { width: 39.3333333333%; }
+	.six.columns { width: 48%; }
+	.seven.columns { width: 56.6666666667%; }
+	.eight.columns { width: 65.3333333333%; }
+	.nine.columns { width: 74.0%; }
+	.ten.columns { width: 82.6666666667%; }
+	.eleven.columns { width: 91.3333333333%; }
+	.twelve.columns { width: 100%; margin-left: 0; }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "EFH",
+  "author": "Kestrel",
+  "description": "Content for EFH built on 2.3.1 SPT-AKI Framework",
+  "license": "GPL3.0",
+  "version": "1.0.3",
+  "main": "mod.js",
+  "bin": {
+    "TrainingStims": "./controllers/TrainingStims/src/mod.js"
+  }
+}

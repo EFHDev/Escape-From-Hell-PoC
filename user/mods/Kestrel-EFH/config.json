@@ -1,0 +1,97 @@
+{
+	"poems": true,
+	"accessibility": {
+		"highcontrastconsole": false
+	},
+	"debug": {
+		"showDebugLogs": false,
+		"deepdebug": false
+	},
+	"efhcore" : {
+			"UseKeycardChanges" : true,
+			"KeycardMaxUse" : 1
+	},
+	"fun" :{
+		"playerNameTitles" :[
+			"Small Dicked",
+			"Evil",
+			"Weak",
+			"Thirsty",
+			"Horny",
+			"Kinda Alright",
+			"Orbus"
+		],
+		"sidesToAddNamesTo":[
+			"exUsec",
+			"Bear",
+			"Usec",
+			"pmcbot"
+		],
+		"EfhSidesIgnore": [
+			"assaultFollower",
+			"researcherFollower"
+
+		]
+	},
+	"qol": {
+		"unlockTraders": true,
+		"examineAll": true,
+		"FasterProduction": false,
+		"adjustAmmoStacks": true,
+		"unlimitedDiscard": true,
+		"ItemRarityThreshold": {
+			"Common": {
+				"Low": 1000,
+				"High": 6000
+			},
+			"Uncommon": {
+				"Low": 6000,
+				"High": 15000
+			},
+			"Rare": {
+				"Low": 15000,
+				"High": 40000
+			},
+			"Epic": {
+				"Low": 40000,
+				"High": 60000
+			},
+			"Mythic": {
+				"Low": 60000,
+				"High": 125000
+			},
+			"Legendary": {
+				"Low": 125000,
+				"High": 500000
+			}
+
+		},
+		"ItemRarityThresholdAmmo": {
+			"CommonA": {
+				"Low": 1,
+				"High": 45
+			},
+			"UncommonA": {
+				"Low": 45,
+				"High": 55
+			},
+			"RareA": {
+				"Low": 55,
+				"High": 150
+			},
+			"EpicA": {
+				"Low": 150,
+				"High": 300
+			},
+			"MythicA": {
+				"Low": 300,
+				"High": 500
+			},
+			"LegendaryA": {
+				"Low": 500,
+				"High": 1000
+			}
+
+		}
+	}
+}

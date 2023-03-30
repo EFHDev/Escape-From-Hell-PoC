@@ -1,0 +1,3762 @@
+[
+	{
+		"_id": "56e335e4d2720b6c058b456d",
+		"_name": "backpack_wild",
+		"_parent": "5448e53e4bdc2d60728b4567",
+		"_type": "Item",
+		"_props": {
+			"Name": "Very Wild Backpack",
+			"ShortName": "VWB",
+			"Description": "Very Wild Backpack",
+			"Weight": 1.68,
+			"BackgroundColor": "violet",
+			"Width": 4,
+			"Height": 5,
+			"StackMaxSize": 1,
+			"ItemSound": "gear_backpack",
+			"Prefab": {
+				"path": "assets/content/items/equipment/backpack_baselardwild/item_equipment_backpack_baselardwild.bundle",
+				"rcid": ""
+			},
+			"UsePrefab": {
+				"path": "",
+				"rcid": ""
+			},
+			"StackObjectsCount": 1,
+			"NotShownInSlot": false,
+			"ExaminedByDefault": false,
+			"ExamineTime": 1,
+			"IsUndiscardable": false,
+			"IsUnsaleable": false,
+			"IsUnbuyable": false,
+			"IsUngivable": false,
+			"IsLockedafterEquip": false,
+			"QuestItem": false,
+			"LootExperience": 20,
+			"ExamineExperience": 2,
+			"HideEntrails": true,
+			"RepairCost": 0,
+			"RepairSpeed": 0,
+			"ExtraSizeLeft": 0,
+			"ExtraSizeRight": 0,
+			"ExtraSizeUp": 0,
+			"ExtraSizeDown": 0,
+			"ExtraSizeForceAdd": false,
+			"MergesWithChildren": false,
+			"CanSellOnRagfair": true,
+			"CanRequireOnRagfair": true,
+			"ConflictingItems": [],
+			"Unlootable": false,
+			"UnlootableFromSlot": "FirstPrimaryWeapon",
+			"UnlootableFromSide": [],
+			"AnimationVariantsNumber": 0,
+			"DiscardingBlock": false,
+			"RagFairCommissionModifier": 1,
+			"IsAlwaysAvailableForInsurance": false,
+			"DiscardLimit": -1,
+			"DropSoundType": "None",
+			"Grids": [
+				{
+					"_name": "main",
+					"_id": "56e33614d2720b6c058b456e",
+					"_parent": "56e335e4d2720b6c058b456d",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"54009119af1c881c07000029"
+								],
+								"ExcludedFilter": [
+									"5448bf274bdc2dfc2f8b456a",
+									"5c093db286f7740a1b2617e3",
+									"5e2af55f86f7746d4159f07c",
+									"5c0a840b86f7742ffa4f2482",
+									"5b7c710788a4506dec015957",
+									"5c127c4486f7745625356c13",
+									"5aafbcd986f7745e590fff23",
+									"59fb016586f7746d0d4b423a",
+									"59fb042886f7746c5005a7b2",
+									"59fb023c86f7746d0d4b423c",
+									"5b6d9ce188a4501afc1b2b25"
+								]
+							}
+						],
+						"cellsH": 4,
+						"cellsV": 5,
+						"minCount": 0,
+						"maxCount": 0,
+						"maxWeight": 0,
+						"isSortingTable": false
+					},
+					"_proto": "55d329c24bdc2d892f8b4567"
+				}
+			],
+			"Slots": [],
+			"CanPutIntoDuringTheRaid": true,
+			"CantRemoveFromSlotsDuringRaid": [],
+			"SearchSound": "looting_body_extended",
+			"BlocksArmorVest": false,
+			"speedPenaltyPercent": -8,
+			"GridLayoutName": ""
+		},
+		"_proto": "545cdae64bdc2d39198b4568"
+	},
+	{
+		"_id": "544a5cde4bdc2d39388b456b",
+		"_name": "standartBackpack",
+		"_parent": "5448e53e4bdc2d60728b4567",
+		"_type": "Item",
+		"_props": {
+			"Name": "MBSS Backpack",
+			"ShortName": "MBSS",
+			"Description": "",
+			"Weight": 0.6,
+			"BackgroundColor": "violet",
+			"Width": 4,
+			"Height": 4,
+			"StackMaxSize": 1,
+			"ItemSound": "gear_backpack",
+			"Prefab": {
+				"path": "assets/content/items/equipment/backpack_baselard/item_equipment_backpack_baselard.bundle",
+				"rcid": ""
+			},
+			"UsePrefab": {
+				"path": "",
+				"rcid": ""
+			},
+			"StackObjectsCount": 1,
+			"NotShownInSlot": false,
+			"ExaminedByDefault": true,
+			"ExamineTime": 1,
+			"IsUndiscardable": false,
+			"IsUnsaleable": false,
+			"IsUnbuyable": false,
+			"IsUngivable": false,
+			"IsLockedafterEquip": false,
+			"QuestItem": false,
+			"LootExperience": 20,
+			"ExamineExperience": 10,
+			"HideEntrails": true,
+			"RepairCost": 0,
+			"RepairSpeed": 0,
+			"ExtraSizeLeft": 0,
+			"ExtraSizeRight": 0,
+			"ExtraSizeUp": 0,
+			"ExtraSizeDown": 0,
+			"ExtraSizeForceAdd": false,
+			"MergesWithChildren": false,
+			"CanSellOnRagfair": true,
+			"CanRequireOnRagfair": true,
+			"ConflictingItems": [],
+			"Unlootable": false,
+			"UnlootableFromSlot": "FirstPrimaryWeapon",
+			"UnlootableFromSide": [],
+			"AnimationVariantsNumber": 0,
+			"DiscardingBlock": false,
+			"RagFairCommissionModifier": 1,
+			"IsAlwaysAvailableForInsurance": false,
+			"DiscardLimit": -1,
+			"DropSoundType": "None",
+			"Grids": [
+				{
+					"_name": "main",
+					"_id": "55d4a1374bdc2d8b2f8b456c",
+					"_parent": "544a5cde4bdc2d39388b456b",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"54009119af1c881c07000029"
+								],
+								"ExcludedFilter": [
+									"5448bf274bdc2dfc2f8b456a",
+									"5c093db286f7740a1b2617e3",
+									"5e2af55f86f7746d4159f07c",
+									"5c0a840b86f7742ffa4f2482",
+									"5b7c710788a4506dec015957",
+									"5c127c4486f7745625356c13",
+									"5aafbcd986f7745e590fff23",
+									"59fb016586f7746d0d4b423a",
+									"59fb042886f7746c5005a7b2",
+									"59fb023c86f7746d0d4b423c",
+									"5b6d9ce188a4501afc1b2b25"
+								]
+							}
+						],
+						"cellsH": 4,
+						"cellsV": 4,
+						"minCount": 0,
+						"maxCount": 0,
+						"maxWeight": 0,
+						"isSortingTable": false
+					},
+					"_proto": "55d329c24bdc2d892f8b4567"
+				}
+			],
+			"Slots": [],
+			"CanPutIntoDuringTheRaid": true,
+			"CantRemoveFromSlotsDuringRaid": [],
+			"SearchSound": "looting_body_extended",
+			"BlocksArmorVest": false,
+			"speedPenaltyPercent": 0,
+			"GridLayoutName": ""
+		}
+	},
+	{
+		"_id": "628bc7fb408e2b2e9c0801b1",
+		"_name": "item_equipment_backpack_boss_birdeye",
+		"_parent": "5448e53e4bdc2d60728b4567",
+		"_type": "Item",
+		"_props": {
+			"Name": "sso_attack",
+			"ShortName": "sso_attack",
+			"Description": "sso_attack",
+			"Weight": 15,
+			"BackgroundColor": "violet",
+			"Width": 4,
+			"Height": 5,
+			"StackMaxSize": 1,
+			"ItemSound": "gear_backpack",
+			"Prefab": {
+				"path": "assets/content/items/equipment/backpack_boss_birdeye/backpack_boss_birdeye.bundle",
+				"rcid": ""
+			},
+			"UsePrefab": {
+				"path": "",
+				"rcid": ""
+			},
+			"StackObjectsCount": 1,
+			"NotShownInSlot": false,
+			"ExaminedByDefault": false,
+			"ExamineTime": 1,
+			"IsUndiscardable": false,
+			"IsUnsaleable": false,
+			"IsUnbuyable": false,
+			"IsUngivable": false,
+			"IsLockedafterEquip": false,
+			"QuestItem": false,
+			"LootExperience": 20,
+			"ExamineExperience": 2,
+			"HideEntrails": true,
+			"RepairCost": 0,
+			"RepairSpeed": 0,
+			"ExtraSizeLeft": 0,
+			"ExtraSizeRight": 0,
+			"ExtraSizeUp": 0,
+			"ExtraSizeDown": 0,
+			"ExtraSizeForceAdd": false,
+			"MergesWithChildren": false,
+			"CanSellOnRagfair": true,
+			"CanRequireOnRagfair": true,
+			"ConflictingItems": [],
+			"Unlootable": false,
+			"UnlootableFromSlot": "FirstPrimaryWeapon",
+			"UnlootableFromSide": [],
+			"AnimationVariantsNumber": 0,
+			"DiscardingBlock": false,
+			"RagFairCommissionModifier": 1,
+			"IsAlwaysAvailableForInsurance": false,
+			"DiscardLimit": -1,
+			"DropSoundType": "None",
+			"Grids": [
+				{
+					"_name": "main",
+					"_id": "628bc7fb408e2b2e9c0801b2",
+					"_parent": "628bc7fb408e2b2e9c0801b1",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"54009119af1c881c07000029"
+								],
+								"ExcludedFilter": [
+									"566168634bdc2d144c8b456c",
+									"5795f317245977243854e041"
+								]
+							}
+						],
+						"cellsH": 2,
+						"cellsV": 7,
+						"minCount": 0,
+						"maxCount": 0,
+						"maxWeight": 0,
+						"isSortingTable": false
+					},
+					"_proto": "55d329c24bdc2d892f8b4567"
+				}
+			],
+			"Slots": [],
+			"CanPutIntoDuringTheRaid": true,
+			"CantRemoveFromSlotsDuringRaid": [],
+			"SearchSound": "looting_body_extended",
+			"BlocksArmorVest": false,
+			"speedPenaltyPercent": -35,
+			"GridLayoutName": ""
+		},
+		"_proto": "545cdae64bdc2d39198b4568"
+	},
+	{
+		"_id": "5e9dcf5986f7746c417435b3",
+		"_name": "item_equipment_backpack_daypack14",
+		"_parent": "5448e53e4bdc2d60728b4567",
+		"_type": "Item",
+		"_props": {
+			"Name": "Very Wild Backpack",
+			"ShortName": "VWB",
+			"Description": "Very Wild Backpack",
+			"Weight": 0.672,
+			"BackgroundColor": "violet",
+			"Width": 4,
+			"Height": 5,
+			"StackMaxSize": 1,
+			"ItemSound": "gear_backpack",
+			"Prefab": {
+				"path": "assets/content/items/equipment/backpack_daypack/item_equipment_backpack_daypack.bundle",
+				"rcid": ""
+			},
+			"UsePrefab": {
+				"path": "",
+				"rcid": ""
+			},
+			"StackObjectsCount": 1,
+			"NotShownInSlot": false,
+			"ExaminedByDefault": false,
+			"ExamineTime": 1,
+			"IsUndiscardable": false,
+			"IsUnsaleable": false,
+			"IsUnbuyable": false,
+			"IsUngivable": false,
+			"IsLockedafterEquip": false,
+			"QuestItem": false,
+			"LootExperience": 20,
+			"ExamineExperience": 2,
+			"HideEntrails": true,
+			"RepairCost": 0,
+			"RepairSpeed": 0,
+			"ExtraSizeLeft": 0,
+			"ExtraSizeRight": 0,
+			"ExtraSizeUp": 0,
+			"ExtraSizeDown": 0,
+			"ExtraSizeForceAdd": false,
+			"MergesWithChildren": false,
+			"CanSellOnRagfair": true,
+			"CanRequireOnRagfair": true,
+			"ConflictingItems": [],
+			"Unlootable": false,
+			"UnlootableFromSlot": "FirstPrimaryWeapon",
+			"UnlootableFromSide": [],
+			"AnimationVariantsNumber": 0,
+			"DiscardingBlock": false,
+			"RagFairCommissionModifier": 1,
+			"IsAlwaysAvailableForInsurance": false,
+			"DiscardLimit": -1,
+			"DropSoundType": "None",
+			"Grids": [
+				{
+					"_name": "main",
+					"_id": "5e9dcf5986f7746c417435b5",
+					"_parent": "5e9dcf5986f7746c417435b3",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"54009119af1c881c07000029"
+								],
+								"ExcludedFilter": [
+									"5448bf274bdc2dfc2f8b456a",
+									"5c093db286f7740a1b2617e3",
+									"5e2af55f86f7746d4159f07c",
+									"5c0a840b86f7742ffa4f2482",
+									"5b7c710788a4506dec015957",
+									"5c127c4486f7745625356c13",
+									"5aafbcd986f7745e590fff23",
+									"59fb016586f7746d0d4b423a",
+									"59fb042886f7746c5005a7b2",
+									"59fb023c86f7746d0d4b423c",
+									"5b6d9ce188a4501afc1b2b25"
+								]
+							}
+						],
+						"cellsH": 4,
+						"cellsV": 5,
+						"minCount": 0,
+						"maxCount": 0,
+						"maxWeight": 0,
+						"isSortingTable": false
+					},
+					"_proto": "55d329c24bdc2d892f8b4567"
+				}
+			],
+			"Slots": [],
+			"CanPutIntoDuringTheRaid": true,
+			"CantRemoveFromSlotsDuringRaid": [],
+			"SearchSound": "looting_body_extended",
+			"BlocksArmorVest": false,
+			"speedPenaltyPercent": 0,
+			"GridLayoutName": ""
+		},
+		"_proto": "545cdae64bdc2d39198b4568"
+	},
+	{
+		"_id": "618cfae774bb2d036a049e7c",
+		"_name": "item_equipment_backpack_lbt1476a",
+		"_parent": "5448e53e4bdc2d60728b4567",
+		"_type": "Item",
+		"_props": {
+			"Name": "Very Wild Backpack",
+			"ShortName": "VWB",
+			"Description": "Very Wild Backpack",
+			"Weight": 1.356,
+			"BackgroundColor": "violet",
+			"Width": 4,
+			"Height": 5,
+			"StackMaxSize": 1,
+			"ItemSound": "gear_backpack",
+			"Prefab": {
+				"path": "assets/content/items/equipment/backpack_lbt1476a/item_equipment_backpack_lbt1476a.bundle",
+				"rcid": ""
+			},
+			"UsePrefab": {
+				"path": "",
+				"rcid": ""
+			},
+			"StackObjectsCount": 1,
+			"NotShownInSlot": false,
+			"ExaminedByDefault": false,
+			"ExamineTime": 1,
+			"IsUndiscardable": false,
+			"IsUnsaleable": false,
+			"IsUnbuyable": false,
+			"IsUngivable": false,
+			"IsLockedafterEquip": false,
+			"QuestItem": false,
+			"LootExperience": 20,
+			"ExamineExperience": 2,
+			"HideEntrails": true,
+			"RepairCost": 0,
+			"RepairSpeed": 0,
+			"ExtraSizeLeft": 0,
+			"ExtraSizeRight": 0,
+			"ExtraSizeUp": 0,
+			"ExtraSizeDown": 0,
+			"ExtraSizeForceAdd": false,
+			"MergesWithChildren": false,
+			"CanSellOnRagfair": true,
+			"CanRequireOnRagfair": true,
+			"ConflictingItems": [],
+			"Unlootable": false,
+			"UnlootableFromSlot": "FirstPrimaryWeapon",
+			"UnlootableFromSide": [],
+			"AnimationVariantsNumber": 0,
+			"DiscardingBlock": false,
+			"RagFairCommissionModifier": 1,
+			"IsAlwaysAvailableForInsurance": false,
+			"DiscardLimit": -1,
+			"DropSoundType": "None",
+			"Grids": [
+				{
+					"_name": "main",
+					"_id": "618cfae774bb2d036a049e7e",
+					"_parent": "618cfae774bb2d036a049e7c",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"54009119af1c881c07000029"
+								],
+								"ExcludedFilter": [
+									"618bb76513f5097c8d5aa2d5",
+									"618cfae774bb2d036a049e7c",
+									"5448bf274bdc2dfc2f8b456a",
+									"5c093db286f7740a1b2617e3",
+									"5e2af55f86f7746d4159f07c",
+									"5c0a840b86f7742ffa4f2482",
+									"5b7c710788a4506dec015957",
+									"5c127c4486f7745625356c13",
+									"5aafbcd986f7745e590fff23",
+									"59fb016586f7746d0d4b423a",
+									"59fb042886f7746c5005a7b2",
+									"59fb023c86f7746d0d4b423c",
+									"5b6d9ce188a4501afc1b2b25"
+								]
+							}
+						],
+						"cellsH": 5,
+						"cellsV": 5,
+						"minCount": 0,
+						"maxCount": 0,
+						"maxWeight": 0,
+						"isSortingTable": false
+					},
+					"_proto": "55d329c24bdc2d892f8b4567"
+				}
+			],
+			"Slots": [],
+			"CanPutIntoDuringTheRaid": true,
+			"CantRemoveFromSlotsDuringRaid": [],
+			"SearchSound": "looting_body_extended",
+			"BlocksArmorVest": false,
+			"speedPenaltyPercent": -3,
+			"GridLayoutName": ""
+		},
+		"_proto": "545cdae64bdc2d39198b4568"
+	},
+	{
+		"_id": "5d5d940f86f7742797262046",
+		"_name": "item_equipment_backpack_mech",
+		"_parent": "5448e53e4bdc2d60728b4567",
+		"_type": "Item",
+		"_props": {
+			"Name": "Pilgrim",
+			"ShortName": "Pilgrim",
+			"Description": "Pilgrim",
+			"Weight": 1.5,
+			"BackgroundColor": "violet",
+			"Width": 5,
+			"Height": 5,
+			"StackMaxSize": 1,
+			"ItemSound": "gear_backpack",
+			"Prefab": {
+				"path": "assets/content/items/equipment/backpack_mech/item_equipment_backpack_mech.bundle",
+				"rcid": ""
+			},
+			"UsePrefab": {
+				"path": "",
+				"rcid": ""
+			},
+			"StackObjectsCount": 1,
+			"NotShownInSlot": false,
+			"ExaminedByDefault": false,
+			"ExamineTime": 1,
+			"IsUndiscardable": false,
+			"IsUnsaleable": false,
+			"IsUnbuyable": false,
+			"IsUngivable": false,
+			"IsLockedafterEquip": false,
+			"QuestItem": false,
+			"LootExperience": 20,
+			"ExamineExperience": 10,
+			"HideEntrails": true,
+			"RepairCost": 0,
+			"RepairSpeed": 0,
+			"ExtraSizeLeft": 0,
+			"ExtraSizeRight": 0,
+			"ExtraSizeUp": 0,
+			"ExtraSizeDown": 0,
+			"ExtraSizeForceAdd": false,
+			"MergesWithChildren": false,
+			"CanSellOnRagfair": true,
+			"CanRequireOnRagfair": true,
+			"ConflictingItems": [],
+			"Unlootable": false,
+			"UnlootableFromSlot": "FirstPrimaryWeapon",
+			"UnlootableFromSide": [],
+			"AnimationVariantsNumber": 0,
+			"DiscardingBlock": false,
+			"RagFairCommissionModifier": 1,
+			"IsAlwaysAvailableForInsurance": false,
+			"DiscardLimit": -1,
+			"DropSoundType": "None",
+			"Grids": [
+				{
+					"_name": "main",
+					"_id": "5d5d940f86f7742797262048",
+					"_parent": "5d5d940f86f7742797262046",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"54009119af1c881c07000029"
+								],
+								"ExcludedFilter": [
+									"5448bf274bdc2dfc2f8b456a",
+									"5c093db286f7740a1b2617e3",
+									"5e2af55f86f7746d4159f07c",
+									"5c0a840b86f7742ffa4f2482",
+									"5b7c710788a4506dec015957",
+									"5c127c4486f7745625356c13",
+									"5aafbcd986f7745e590fff23",
+									"59fb016586f7746d0d4b423a",
+									"59fb042886f7746c5005a7b2",
+									"59fb023c86f7746d0d4b423c",
+									"5b6d9ce188a4501afc1b2b25"
+								]
+							}
+						],
+						"cellsH": 4,
+						"cellsV": 4,
+						"minCount": 0,
+						"maxCount": 0,
+						"maxWeight": 0,
+						"isSortingTable": false
+					},
+					"_proto": "55d329c24bdc2d892f8b4567"
+				},
+				{
+					"_name": "1",
+					"_id": "5d5d940f86f7742797262049",
+					"_parent": "5d5d940f86f7742797262046",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"54009119af1c881c07000029"
+								],
+								"ExcludedFilter": [
+									"5448bf274bdc2dfc2f8b456a"
+								]
+							}
+						],
+						"cellsH": 2,
+						"cellsV": 2,
+						"minCount": 0,
+						"maxCount": 0,
+						"maxWeight": 0,
+						"isSortingTable": false
+					},
+					"_proto": "55d329c24bdc2d892f8b4567"
+				},
+				{
+					"_name": "2",
+					"_id": "5d5d940f86f774279726204a",
+					"_parent": "5d5d940f86f7742797262046",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"54009119af1c881c07000029"
+								],
+								"ExcludedFilter": [
+									"5448bf274bdc2dfc2f8b456a"
+								]
+							}
+						],
+						"cellsH": 2,
+						"cellsV": 2,
+						"minCount": 0,
+						"maxCount": 0,
+						"maxWeight": 0,
+						"isSortingTable": false
+					},
+					"_proto": "55d329c24bdc2d892f8b4567"
+				},
+				{
+					"_name": "3",
+					"_id": "5d5d940f86f774279726204b",
+					"_parent": "5d5d940f86f7742797262046",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"54009119af1c881c07000029"
+								],
+								"ExcludedFilter": [
+									"5448bf274bdc2dfc2f8b456a"
+								]
+							}
+						],
+						"cellsH": 2,
+						"cellsV": 2,
+						"minCount": 0,
+						"maxCount": 0,
+						"maxWeight": 0,
+						"isSortingTable": false
+					},
+					"_proto": "55d329c24bdc2d892f8b4567"
+				},
+				{
+					"_name": "4",
+					"_id": "5d5d95ea86f774279a21cbe7",
+					"_parent": "5d5d940f86f7742797262046",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"54009119af1c881c07000029"
+								],
+								"ExcludedFilter": [
+									"5448bf274bdc2dfc2f8b456a"
+								]
+							}
+						],
+						"cellsH": 2,
+						"cellsV": 2,
+						"minCount": 0,
+						"maxCount": 0,
+						"maxWeight": 0,
+						"isSortingTable": false
+					},
+					"_proto": "55d329c24bdc2d892f8b4567"
+				}
+			],
+			"Slots": [],
+			"CanPutIntoDuringTheRaid": true,
+			"CantRemoveFromSlotsDuringRaid": [],
+			"SearchSound": "looting_body_extended",
+			"BlocksArmorVest": false,
+			"speedPenaltyPercent": -8,
+			"GridLayoutName": "oakley"
+		},
+		"_proto": "544a5cde4bdc2d39388b456b"
+	},
+	{
+		"_id": "5e4abc6786f77406812bd572",
+		"_name": "item_equipment_backpack_medpack",
+		"_parent": "5448e53e4bdc2d60728b4567",
+		"_type": "Item",
+		"_props": {
+			"Name": "sso_attack",
+			"ShortName": "sso_attack",
+			"Description": "sso_attack",
+			"Weight": 1.92,
+			"BackgroundColor": "violet",
+			"Width": 4,
+			"Height": 5,
+			"StackMaxSize": 1,
+			"ItemSound": "gear_backpack",
+			"Prefab": {
+				"path": "assets/content/items/equipment/backpack_medpack/bp_medpack.bundle",
+				"rcid": ""
+			},
+			"UsePrefab": {
+				"path": "",
+				"rcid": ""
+			},
+			"StackObjectsCount": 1,
+			"NotShownInSlot": false,
+			"ExaminedByDefault": false,
+			"ExamineTime": 1,
+			"IsUndiscardable": false,
+			"IsUnsaleable": false,
+			"IsUnbuyable": false,
+			"IsUngivable": false,
+			"IsLockedafterEquip": false,
+			"QuestItem": false,
+			"LootExperience": 20,
+			"ExamineExperience": 2,
+			"HideEntrails": true,
+			"RepairCost": 0,
+			"RepairSpeed": 0,
+			"ExtraSizeLeft": 0,
+			"ExtraSizeRight": 0,
+			"ExtraSizeUp": 0,
+			"ExtraSizeDown": 0,
+			"ExtraSizeForceAdd": false,
+			"MergesWithChildren": false,
+			"CanSellOnRagfair": true,
+			"CanRequireOnRagfair": true,
+			"ConflictingItems": [],
+			"Unlootable": false,
+			"UnlootableFromSlot": "FirstPrimaryWeapon",
+			"UnlootableFromSide": [],
+			"AnimationVariantsNumber": 0,
+			"DiscardingBlock": false,
+			"RagFairCommissionModifier": 1,
+			"IsAlwaysAvailableForInsurance": false,
+			"DiscardLimit": -1,
+			"DropSoundType": "None",
+			"Grids": [
+				{
+					"_name": "main",
+					"_id": "5e4abc6786f77406812bd574",
+					"_parent": "5e4abc6786f77406812bd572",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"57864c8c245977548867e7f1",
+									"543be5664bdc2dd4348b4569"
+								],
+								"ExcludedFilter": []
+							}
+						],
+						"cellsH": 6,
+						"cellsV": 8,
+						"minCount": 0,
+						"maxCount": 0,
+						"maxWeight": 0,
+						"isSortingTable": false
+					},
+					"_proto": "55d329c24bdc2d892f8b4567"
+				}
+			],
+			"Slots": [],
+			"CanPutIntoDuringTheRaid": true,
+			"CantRemoveFromSlotsDuringRaid": [],
+			"SearchSound": "looting_body_extended",
+			"BlocksArmorVest": false,
+			"speedPenaltyPercent": 0,
+			"GridLayoutName": ""
+		},
+		"_proto": "545cdae64bdc2d39198b4568"
+	},
+	{
+		"_id": "5c0e805e86f774683f3dd637",
+		"_name": "item_equipment_backpack_paratus",
+		"_parent": "5448e53e4bdc2d60728b4567",
+		"_type": "Item",
+		"_props": {
+			"Name": "Pilgrim",
+			"ShortName": "Pilgrim",
+			"Description": "Pilgrim",
+			"Weight": 1.56,
+			"BackgroundColor": "violet",
+			"Width": 5,
+			"Height": 7,
+			"StackMaxSize": 1,
+			"ItemSound": "gear_backpack",
+			"Prefab": {
+				"path": "assets/content/items/equipment/backpack_paratus_3_day/item_equipment_backpack_paratus_3_day.bundle",
+				"rcid": ""
+			},
+			"UsePrefab": {
+				"path": "",
+				"rcid": ""
+			},
+			"StackObjectsCount": 1,
+			"NotShownInSlot": false,
+			"ExaminedByDefault": false,
+			"ExamineTime": 1,
+			"IsUndiscardable": false,
+			"IsUnsaleable": false,
+			"IsUnbuyable": false,
+			"IsUngivable": false,
+			"IsLockedafterEquip": false,
+			"QuestItem": false,
+			"LootExperience": 20,
+			"ExamineExperience": 10,
+			"HideEntrails": true,
+			"RepairCost": 0,
+			"RepairSpeed": 0,
+			"ExtraSizeLeft": 0,
+			"ExtraSizeRight": 0,
+			"ExtraSizeUp": 0,
+			"ExtraSizeDown": 0,
+			"ExtraSizeForceAdd": false,
+			"MergesWithChildren": false,
+			"CanSellOnRagfair": false,
+			"CanRequireOnRagfair": false,
+			"ConflictingItems": [],
+			"Unlootable": false,
+			"UnlootableFromSlot": "FirstPrimaryWeapon",
+			"UnlootableFromSide": [],
+			"AnimationVariantsNumber": 0,
+			"DiscardingBlock": false,
+			"RagFairCommissionModifier": 1,
+			"IsAlwaysAvailableForInsurance": false,
+			"DiscardLimit": -1,
+			"DropSoundType": "None",
+			"Grids": [
+				{
+					"_name": "main",
+					"_id": "5c0e805e86f774683f3dd639",
+					"_parent": "5c0e805e86f774683f3dd637",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"54009119af1c881c07000029"
+								],
+								"ExcludedFilter": [
+									"5448bf274bdc2dfc2f8b456a",
+									"5c093db286f7740a1b2617e3",
+									"5e2af55f86f7746d4159f07c",
+									"5c0a840b86f7742ffa4f2482",
+									"5b7c710788a4506dec015957",
+									"5c127c4486f7745625356c13",
+									"5aafbcd986f7745e590fff23",
+									"59fb016586f7746d0d4b423a",
+									"59fb042886f7746c5005a7b2",
+									"59fb023c86f7746d0d4b423c",
+									"5b6d9ce188a4501afc1b2b25"
+								]
+							}
+						],
+						"cellsH": 5,
+						"cellsV": 5,
+						"minCount": 0,
+						"maxCount": 0,
+						"maxWeight": 0,
+						"isSortingTable": false
+					},
+					"_proto": "55d329c24bdc2d892f8b4567"
+				},
+				{
+					"_name": "1",
+					"_id": "5c0e816086f7745dc7616605",
+					"_parent": "5c0e805e86f774683f3dd637",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"54009119af1c881c07000029"
+								],
+								"ExcludedFilter": [
+									"5448bf274bdc2dfc2f8b456a"
+								]
+							}
+						],
+						"cellsH": 1,
+						"cellsV": 2,
+						"minCount": 0,
+						"maxCount": 0,
+						"maxWeight": 0,
+						"isSortingTable": false
+					},
+					"_proto": "55d329c24bdc2d892f8b4567"
+				},
+				{
+					"_name": "2",
+					"_id": "5c0e816886f7742b461cca32",
+					"_parent": "5c0e805e86f774683f3dd637",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"54009119af1c881c07000029"
+								],
+								"ExcludedFilter": [
+									"5448bf274bdc2dfc2f8b456a"
+								]
+							}
+						],
+						"cellsH": 1,
+						"cellsV": 2,
+						"minCount": 0,
+						"maxCount": 0,
+						"maxWeight": 0,
+						"isSortingTable": false
+					},
+					"_proto": "55d329c24bdc2d892f8b4567"
+				},
+				{
+					"_name": "3",
+					"_id": "5c0e816c86f77452b35dc6e4",
+					"_parent": "5c0e805e86f774683f3dd637",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"54009119af1c881c07000029"
+								],
+								"ExcludedFilter": [
+									"5448bf274bdc2dfc2f8b456a",
+									"5c093db286f7740a1b2617e3",
+									"5e2af55f86f7746d4159f07c",
+									"5b7c710788a4506dec015957",
+									"5c127c4486f7745625356c13",
+									"5aafbcd986f7745e590fff23",
+									"59fb016586f7746d0d4b423a",
+									"59fb042886f7746c5005a7b2",
+									"59fb023c86f7746d0d4b423c",
+									"5b6d9ce188a4501afc1b2b25"
+								]
+							}
+						],
+						"cellsH": 3,
+						"cellsV": 2,
+						"minCount": 0,
+						"maxCount": 0,
+						"maxWeight": 0,
+						"isSortingTable": false
+					},
+					"_proto": "55d329c24bdc2d892f8b4567"
+				}
+			],
+			"Slots": [],
+			"CanPutIntoDuringTheRaid": true,
+			"CantRemoveFromSlotsDuringRaid": [],
+			"SearchSound": "looting_body_extended",
+			"BlocksArmorVest": false,
+			"speedPenaltyPercent": -5,
+			"GridLayoutName": "Paratus"
+		},
+		"_proto": "544a5cde4bdc2d39388b456b"
+	},
+	{
+		"_id": "60a2828e8689911a226117f9",
+		"_name": "item_equipment_backpack_pillbox",
+		"_parent": "5448e53e4bdc2d60728b4567",
+		"_type": "Item",
+		"_props": {
+			"Name": "beta2",
+			"ShortName": "beta2",
+			"Description": "beta2",
+			"Weight": 2.52,
+			"BackgroundColor": "violet",
+			"Width": 4,
+			"Height": 4,
+			"StackMaxSize": 1,
+			"ItemSound": "gear_backpack",
+			"Prefab": {
+				"path": "assets/content/items/equipment/backpack_pillbox/item_equipment_backpack_pillbox.bundle",
+				"rcid": ""
+			},
+			"UsePrefab": {
+				"path": "",
+				"rcid": ""
+			},
+			"StackObjectsCount": 1,
+			"NotShownInSlot": false,
+			"ExaminedByDefault": false,
+			"ExamineTime": 1,
+			"IsUndiscardable": false,
+			"IsUnsaleable": false,
+			"IsUnbuyable": false,
+			"IsUngivable": false,
+			"IsLockedafterEquip": false,
+			"QuestItem": false,
+			"LootExperience": 20,
+			"ExamineExperience": 10,
+			"HideEntrails": true,
+			"RepairCost": 0,
+			"RepairSpeed": 0,
+			"ExtraSizeLeft": 0,
+			"ExtraSizeRight": 0,
+			"ExtraSizeUp": 0,
+			"ExtraSizeDown": 0,
+			"ExtraSizeForceAdd": false,
+			"MergesWithChildren": false,
+			"CanSellOnRagfair": true,
+			"CanRequireOnRagfair": true,
+			"ConflictingItems": [],
+			"Unlootable": false,
+			"UnlootableFromSlot": "FirstPrimaryWeapon",
+			"UnlootableFromSide": [],
+			"AnimationVariantsNumber": 0,
+			"DiscardingBlock": false,
+			"RagFairCommissionModifier": 1,
+			"IsAlwaysAvailableForInsurance": false,
+			"DiscardLimit": -1,
+			"DropSoundType": "None",
+			"Grids": [
+				{
+					"_name": "main",
+					"_id": "60a2828e8689911a226117fb",
+					"_parent": "60a2828e8689911a226117f9",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"54009119af1c881c07000029"
+								],
+								"ExcludedFilter": [
+									"56e335e4d2720b6c058b456d",
+									"5e9dcf5986f7746c417435b3",
+									"60a2828e8689911a226117f9",
+									"5f5e45cc5021ce62144be7aa",
+									"5ca20d5986f774331e7c9602",
+									"544a5cde4bdc2d39388b456b",
+									"5448bf274bdc2dfc2f8b456a",
+									"5c093db286f7740a1b2617e3",
+									"5e2af55f86f7746d4159f07c",
+									"5c0a840b86f7742ffa4f2482",
+									"5b7c710788a4506dec015957",
+									"5c127c4486f7745625356c13",
+									"5aafbcd986f7745e590fff23",
+									"59fb016586f7746d0d4b423a",
+									"59fb042886f7746c5005a7b2",
+									"59fb023c86f7746d0d4b423c",
+									"5b6d9ce188a4501afc1b2b25"
+								]
+							}
+						],
+						"cellsH": 4,
+						"cellsV": 5,
+						"minCount": 0,
+						"maxCount": 0,
+						"maxWeight": 0,
+						"isSortingTable": false
+					},
+					"_proto": "55d329c24bdc2d892f8b4567"
+				}
+			],
+			"Slots": [],
+			"CanPutIntoDuringTheRaid": true,
+			"CantRemoveFromSlotsDuringRaid": [],
+			"SearchSound": "looting_body_extended",
+			"BlocksArmorVest": false,
+			"speedPenaltyPercent": 0,
+			"GridLayoutName": ""
+		},
+		"_proto": "544a5cde4bdc2d39388b456b"
+	},
+	{
+		"_id": "5f5e45cc5021ce62144be7aa",
+		"_name": "item_equipment_backpack_redfox",
+		"_parent": "5448e53e4bdc2d60728b4567",
+		"_type": "Item",
+		"_props": {
+			"Name": "Pilgrim",
+			"ShortName": "Pilgrim",
+			"Description": "Pilgrim",
+			"Weight": 0.984,
+			"BackgroundColor": "violet",
+			"Width": 3,
+			"Height": 4,
+			"StackMaxSize": 1,
+			"ItemSound": "gear_backpack",
+			"Prefab": {
+				"path": "assets/content/items/equipment/backpack_redfox/item_equipment_backpack_redfox.bundle",
+				"rcid": ""
+			},
+			"UsePrefab": {
+				"path": "",
+				"rcid": ""
+			},
+			"StackObjectsCount": 1,
+			"NotShownInSlot": false,
+			"ExaminedByDefault": false,
+			"ExamineTime": 1,
+			"IsUndiscardable": false,
+			"IsUnsaleable": false,
+			"IsUnbuyable": false,
+			"IsUngivable": false,
+			"IsLockedafterEquip": false,
+			"QuestItem": false,
+			"LootExperience": 20,
+			"ExamineExperience": 10,
+			"HideEntrails": true,
+			"RepairCost": 0,
+			"RepairSpeed": 0,
+			"ExtraSizeLeft": 0,
+			"ExtraSizeRight": 0,
+			"ExtraSizeUp": 0,
+			"ExtraSizeDown": 0,
+			"ExtraSizeForceAdd": false,
+			"MergesWithChildren": false,
+			"CanSellOnRagfair": true,
+			"CanRequireOnRagfair": true,
+			"ConflictingItems": [],
+			"Unlootable": false,
+			"UnlootableFromSlot": "FirstPrimaryWeapon",
+			"UnlootableFromSide": [],
+			"AnimationVariantsNumber": 0,
+			"DiscardingBlock": false,
+			"RagFairCommissionModifier": 1,
+			"IsAlwaysAvailableForInsurance": false,
+			"DiscardLimit": -1,
+			"DropSoundType": "None",
+			"Grids": [
+				{
+					"_name": "main",
+					"_id": "5f5e45cc5021ce62144be7ac",
+					"_parent": "5f5e45cc5021ce62144be7aa",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"54009119af1c881c07000029"
+								],
+								"ExcludedFilter": [
+									"5448bf274bdc2dfc2f8b456a",
+									"5c093db286f7740a1b2617e3",
+									"5e2af55f86f7746d4159f07c",
+									"5c0a840b86f7742ffa4f2482",
+									"5b7c710788a4506dec015957",
+									"5c127c4486f7745625356c13",
+									"5aafbcd986f7745e590fff23",
+									"59fb016586f7746d0d4b423a",
+									"59fb042886f7746c5005a7b2",
+									"59fb023c86f7746d0d4b423c",
+									"5b6d9ce188a4501afc1b2b25"
+								]
+							}
+						],
+						"cellsH": 3,
+						"cellsV": 4,
+						"minCount": 0,
+						"maxCount": 0,
+						"maxWeight": 0,
+						"isSortingTable": false
+					},
+					"_proto": "55d329c24bdc2d892f8b4567"
+				}
+			],
+			"Slots": [],
+			"CanPutIntoDuringTheRaid": true,
+			"CantRemoveFromSlotsDuringRaid": [],
+			"SearchSound": "looting_body_extended",
+			"BlocksArmorVest": false,
+			"speedPenaltyPercent": -3,
+			"GridLayoutName": ""
+		},
+		"_proto": "544a5cde4bdc2d39388b456b"
+	},
+	{
+		"_id": "545cdae64bdc2d39198b4568",
+		"_name": "bigBackpack",
+		"_parent": "5448e53e4bdc2d60728b4567",
+		"_type": "Item",
+		"_props": {
+			"Name": "Camelback Tri Zipps Backpack",
+			"ShortName": "TriZipps",
+			"Description": "",
+			"Weight": 1.56,
+			"BackgroundColor": "violet",
+			"Width": 5,
+			"Height": 6,
+			"StackMaxSize": 1,
+			"ItemSound": "gear_backpack",
+			"Prefab": {
+				"path": "assets/content/items/equipment/backpack_trizip/item_equipment_backpack_trizip.bundle",
+				"rcid": ""
+			},
+			"UsePrefab": {
+				"path": "",
+				"rcid": ""
+			},
+			"StackObjectsCount": 1,
+			"NotShownInSlot": false,
+			"ExaminedByDefault": false,
+			"ExamineTime": 1,
+			"IsUndiscardable": false,
+			"IsUnsaleable": false,
+			"IsUnbuyable": false,
+			"IsUngivable": false,
+			"IsLockedafterEquip": false,
+			"QuestItem": false,
+			"LootExperience": 20,
+			"ExamineExperience": 2,
+			"HideEntrails": true,
+			"RepairCost": 0,
+			"RepairSpeed": 0,
+			"ExtraSizeLeft": 0,
+			"ExtraSizeRight": 0,
+			"ExtraSizeUp": 0,
+			"ExtraSizeDown": 0,
+			"ExtraSizeForceAdd": false,
+			"MergesWithChildren": false,
+			"CanSellOnRagfair": true,
+			"CanRequireOnRagfair": true,
+			"ConflictingItems": [],
+			"Unlootable": false,
+			"UnlootableFromSlot": "FirstPrimaryWeapon",
+			"UnlootableFromSide": [],
+			"AnimationVariantsNumber": 0,
+			"DiscardingBlock": false,
+			"RagFairCommissionModifier": 1,
+			"IsAlwaysAvailableForInsurance": false,
+			"DiscardLimit": -1,
+			"DropSoundType": "None",
+			"Grids": [
+				{
+					"_name": "main",
+					"_id": "55d4a17a4bdc2d8b2f8b456d",
+					"_parent": "545cdae64bdc2d39198b4568",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"54009119af1c881c07000029"
+								],
+								"ExcludedFilter": [
+									"5448bf274bdc2dfc2f8b456a",
+									"5c093db286f7740a1b2617e3",
+									"5e2af55f86f7746d4159f07c",
+									"5c0a840b86f7742ffa4f2482",
+									"5b7c710788a4506dec015957",
+									"5c127c4486f7745625356c13",
+									"5aafbcd986f7745e590fff23",
+									"59fb016586f7746d0d4b423a",
+									"59fb042886f7746c5005a7b2",
+									"59fb023c86f7746d0d4b423c",
+									"5b6d9ce188a4501afc1b2b25"
+								]
+							}
+						],
+						"cellsH": 5,
+						"cellsV": 6,
+						"minCount": 0,
+						"maxCount": 0,
+						"maxWeight": 0,
+						"isSortingTable": false
+					},
+					"_proto": "55d329c24bdc2d892f8b4567"
+				}
+			],
+			"Slots": [],
+			"CanPutIntoDuringTheRaid": true,
+			"CantRemoveFromSlotsDuringRaid": [],
+			"SearchSound": "looting_body_extended",
+			"BlocksArmorVest": false,
+			"speedPenaltyPercent": -15,
+			"GridLayoutName": ""
+		}
+	},
+	{
+		"_id": "56e33680d2720be2748b4576",
+		"_name": "tactical_backpack",
+		"_parent": "5448e53e4bdc2d60728b4567",
+		"_type": "Item",
+		"_props": {
+			"Name": "Tacticool Backpack",
+			"ShortName": "TB",
+			"Description": "Tacticool Backpack",
+			"Weight": 0.84,
+			"BackgroundColor": "violet",
+			"Width": 3,
+			"Height": 3,
+			"StackMaxSize": 1,
+			"ItemSound": "gear_backpack",
+			"Prefab": {
+				"path": "assets/content/items/equipment/backpack_tactical/item_equipment_backpack_tactical.bundle",
+				"rcid": ""
+			},
+			"UsePrefab": {
+				"path": "",
+				"rcid": ""
+			},
+			"StackObjectsCount": 1,
+			"NotShownInSlot": false,
+			"ExaminedByDefault": false,
+			"ExamineTime": 1,
+			"IsUndiscardable": false,
+			"IsUnsaleable": false,
+			"IsUnbuyable": false,
+			"IsUngivable": false,
+			"IsLockedafterEquip": false,
+			"QuestItem": false,
+			"LootExperience": 20,
+			"ExamineExperience": 2,
+			"HideEntrails": true,
+			"RepairCost": 0,
+			"RepairSpeed": 0,
+			"ExtraSizeLeft": 0,
+			"ExtraSizeRight": 0,
+			"ExtraSizeUp": 0,
+			"ExtraSizeDown": 0,
+			"ExtraSizeForceAdd": false,
+			"MergesWithChildren": false,
+			"CanSellOnRagfair": true,
+			"CanRequireOnRagfair": true,
+			"ConflictingItems": [],
+			"Unlootable": false,
+			"UnlootableFromSlot": "FirstPrimaryWeapon",
+			"UnlootableFromSide": [],
+			"AnimationVariantsNumber": 0,
+			"DiscardingBlock": false,
+			"RagFairCommissionModifier": 1,
+			"IsAlwaysAvailableForInsurance": false,
+			"DiscardLimit": -1,
+			"DropSoundType": "None",
+			"Grids": [
+				{
+					"_name": "main",
+					"_id": "56e336afd2720be2748b4577",
+					"_parent": "56e33680d2720be2748b4576",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"54009119af1c881c07000029"
+								],
+								"ExcludedFilter": [
+									"5448bf274bdc2dfc2f8b456a",
+									"5c093db286f7740a1b2617e3",
+									"5e2af55f86f7746d4159f07c",
+									"5c0a840b86f7742ffa4f2482",
+									"5b7c710788a4506dec015957",
+									"5c127c4486f7745625356c13",
+									"5aafbcd986f7745e590fff23",
+									"59fb016586f7746d0d4b423a",
+									"59fb042886f7746c5005a7b2",
+									"59fb023c86f7746d0d4b423c",
+									"5b6d9ce188a4501afc1b2b25"
+								]
+							}
+						],
+						"cellsH": 3,
+						"cellsV": 3,
+						"minCount": 0,
+						"maxCount": 0,
+						"maxWeight": 0,
+						"isSortingTable": false
+					},
+					"_proto": "55d329c24bdc2d892f8b4567"
+				}
+			],
+			"Slots": [],
+			"CanPutIntoDuringTheRaid": true,
+			"CantRemoveFromSlotsDuringRaid": [],
+			"SearchSound": "looting_body_extended",
+			"BlocksArmorVest": false,
+			"speedPenaltyPercent": 0,
+			"GridLayoutName": ""
+		},
+		"_proto": "56e33634d2720bd8058b456b"
+	},
+	{
+		"_id": "56e294cdd2720b603a8b4575",
+		"_name": "endlessBackpack",
+		"_parent": "5448e53e4bdc2d60728b4567",
+		"_type": "Item",
+		"_props": {
+			"Name": "Developer Pack",
+			"ShortName": "Developer Pack",
+			"Description": "Developer Pack",
+			"Weight": 1.2,
+			"BackgroundColor": "violet",
+			"Width": 4,
+			"Height": 4,
+			"StackMaxSize": 1,
+			"ItemSound": "gear_backpack",
+			"Prefab": {
+				"path": "assets/content/items/equipment/backpack_trizip/item_equipment_backpack_trizip.bundle",
+				"rcid": ""
+			},
+			"UsePrefab": {
+				"path": "",
+				"rcid": ""
+			},
+			"StackObjectsCount": 1,
+			"NotShownInSlot": false,
+			"ExaminedByDefault": false,
+			"ExamineTime": 1,
+			"IsUndiscardable": false,
+			"IsUnsaleable": false,
+			"IsUnbuyable": false,
+			"IsUngivable": false,
+			"IsLockedafterEquip": false,
+			"QuestItem": false,
+			"LootExperience": 20,
+			"ExamineExperience": 10,
+			"HideEntrails": true,
+			"RepairCost": 0,
+			"RepairSpeed": 0,
+			"ExtraSizeLeft": 0,
+			"ExtraSizeRight": 0,
+			"ExtraSizeUp": 0,
+			"ExtraSizeDown": 0,
+			"ExtraSizeForceAdd": false,
+			"MergesWithChildren": false,
+			"CanSellOnRagfair": true,
+			"CanRequireOnRagfair": true,
+			"ConflictingItems": [],
+			"Unlootable": false,
+			"UnlootableFromSlot": "FirstPrimaryWeapon",
+			"UnlootableFromSide": [],
+			"AnimationVariantsNumber": 0,
+			"DiscardingBlock": false,
+			"RagFairCommissionModifier": 1,
+			"IsAlwaysAvailableForInsurance": false,
+			"DiscardLimit": -1,
+			"DropSoundType": "None",
+			"Grids": [
+				{
+					"_name": "main",
+					"_id": "56e294d8d2720bbb668b456a",
+					"_parent": "56e294cdd2720b603a8b4575",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"54009119af1c881c07000029"
+								],
+								"ExcludedFilter": [
+									"5448bf274bdc2dfc2f8b456a",
+									"5c0a840b86f7742ffa4f2482",
+									"5b7c710788a4506dec015957",
+									"59fb042886f7746c5005a7b2",
+									"5b6d9ce188a4501afc1b2b25"
+								]
+							}
+						],
+						"cellsH": 6,
+						"cellsV": 50,
+						"minCount": 0,
+						"maxCount": 0,
+						"maxWeight": 0,
+						"isSortingTable": false
+					},
+					"_proto": "55d329c24bdc2d892f8b4567"
+				}
+			],
+			"Slots": [],
+			"CanPutIntoDuringTheRaid": true,
+			"CantRemoveFromSlotsDuringRaid": [],
+			"SearchSound": "looting_body_extended",
+			"BlocksArmorVest": false,
+			"speedPenaltyPercent": 0,
+			"GridLayoutName": ""
+		},
+		"_proto": "545cdae64bdc2d39198b4568"
+	},
+	{
+		"_id": "6034d103ca006d2dca39b3f0",
+		"_name": "item_equipment_backpack_takedown_sling",
+		"_parent": "5448e53e4bdc2d60728b4567",
+		"_type": "Item",
+		"_props": {
+			"Name": "Pilgrim",
+			"ShortName": "Pilgrim",
+			"Description": "Pilgrim",
+			"Weight": 1.68,
+			"BackgroundColor": "violet",
+			"Width": 3,
+			"Height": 7,
+			"StackMaxSize": 1,
+			"ItemSound": "gear_backpack",
+			"Prefab": {
+				"path": "assets/content/items/equipment/backpack_takedown_sling/item_equipment_backpack_takedown_sling.bundle",
+				"rcid": ""
+			},
+			"UsePrefab": {
+				"path": "",
+				"rcid": ""
+			},
+			"StackObjectsCount": 1,
+			"NotShownInSlot": false,
+			"ExaminedByDefault": false,
+			"ExamineTime": 1,
+			"IsUndiscardable": false,
+			"IsUnsaleable": false,
+			"IsUnbuyable": false,
+			"IsUngivable": false,
+			"IsLockedafterEquip": false,
+			"QuestItem": false,
+			"LootExperience": 20,
+			"ExamineExperience": 10,
+			"HideEntrails": true,
+			"RepairCost": 0,
+			"RepairSpeed": 0,
+			"ExtraSizeLeft": 0,
+			"ExtraSizeRight": 0,
+			"ExtraSizeUp": 0,
+			"ExtraSizeDown": 0,
+			"ExtraSizeForceAdd": false,
+			"MergesWithChildren": false,
+			"CanSellOnRagfair": true,
+			"CanRequireOnRagfair": true,
+			"ConflictingItems": [],
+			"Unlootable": false,
+			"UnlootableFromSlot": "FirstPrimaryWeapon",
+			"UnlootableFromSide": [],
+			"AnimationVariantsNumber": 0,
+			"DiscardingBlock": false,
+			"RagFairCommissionModifier": 1,
+			"IsAlwaysAvailableForInsurance": false,
+			"DiscardLimit": -1,
+			"DropSoundType": "None",
+			"Grids": [
+				{
+					"_name": "main",
+					"_id": "6034d103ca006d2dca39b3f2",
+					"_parent": "6034d103ca006d2dca39b3f0",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"54009119af1c881c07000029"
+								],
+								"ExcludedFilter": [
+									"6038d614d10cbf667352dd44",
+									"6034d103ca006d2dca39b3f0",
+									"5448bf274bdc2dfc2f8b456a",
+									"5c093db286f7740a1b2617e3",
+									"5e2af55f86f7746d4159f07c",
+									"5c0a840b86f7742ffa4f2482",
+									"5b7c710788a4506dec015957",
+									"5c127c4486f7745625356c13",
+									"5aafbcd986f7745e590fff23",
+									"59fb016586f7746d0d4b423a",
+									"59fb042886f7746c5005a7b2",
+									"59fb023c86f7746d0d4b423c",
+									"5b6d9ce188a4501afc1b2b25"
+								]
+							}
+						],
+						"cellsH": 3,
+						"cellsV": 8,
+						"minCount": 0,
+						"maxCount": 0,
+						"maxWeight": 0,
+						"isSortingTable": false
+					},
+					"_proto": "55d329c24bdc2d892f8b4567"
+				}
+			],
+			"Slots": [],
+			"CanPutIntoDuringTheRaid": true,
+			"CantRemoveFromSlotsDuringRaid": [],
+			"SearchSound": "looting_body_extended",
+			"BlocksArmorVest": false,
+			"speedPenaltyPercent": -6,
+			"GridLayoutName": ""
+		},
+		"_proto": "544a5cde4bdc2d39388b456b"
+	},
+	{
+		"_id": "5ca20d5986f774331e7c9602",
+		"_name": "item_equipment_backpack_wartech",
+		"_parent": "5448e53e4bdc2d60728b4567",
+		"_type": "Item",
+		"_props": {
+			"Name": "Very Wild Backpack",
+			"ShortName": "VWB",
+			"Description": "Very Wild Backpack",
+			"Weight": 0.96,
+			"BackgroundColor": "violet",
+			"Width": 4,
+			"Height": 5,
+			"StackMaxSize": 1,
+			"ItemSound": "gear_backpack",
+			"Prefab": {
+				"path": "assets/content/items/equipment/backpack_wartech/item_equipment_backpack_wartech.bundle",
+				"rcid": ""
+			},
+			"UsePrefab": {
+				"path": "",
+				"rcid": ""
+			},
+			"StackObjectsCount": 1,
+			"NotShownInSlot": false,
+			"ExaminedByDefault": false,
+			"ExamineTime": 1,
+			"IsUndiscardable": false,
+			"IsUnsaleable": false,
+			"IsUnbuyable": false,
+			"IsUngivable": false,
+			"IsLockedafterEquip": false,
+			"QuestItem": false,
+			"LootExperience": 20,
+			"ExamineExperience": 2,
+			"HideEntrails": true,
+			"RepairCost": 0,
+			"RepairSpeed": 0,
+			"ExtraSizeLeft": 0,
+			"ExtraSizeRight": 0,
+			"ExtraSizeUp": 0,
+			"ExtraSizeDown": 0,
+			"ExtraSizeForceAdd": false,
+			"MergesWithChildren": false,
+			"CanSellOnRagfair": true,
+			"CanRequireOnRagfair": true,
+			"ConflictingItems": [],
+			"Unlootable": false,
+			"UnlootableFromSlot": "FirstPrimaryWeapon",
+			"UnlootableFromSide": [],
+			"AnimationVariantsNumber": 0,
+			"DiscardingBlock": false,
+			"RagFairCommissionModifier": 1,
+			"IsAlwaysAvailableForInsurance": false,
+			"DiscardLimit": -1,
+			"DropSoundType": "None",
+			"Grids": [
+				{
+					"_name": "main",
+					"_id": "5ca20d5986f774331e7c9604",
+					"_parent": "5ca20d5986f774331e7c9602",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"54009119af1c881c07000029"
+								],
+								"ExcludedFilter": [
+									"5448bf274bdc2dfc2f8b456a",
+									"5c093db286f7740a1b2617e3",
+									"5e2af55f86f7746d4159f07c",
+									"5c0a840b86f7742ffa4f2482",
+									"5b7c710788a4506dec015957",
+									"5c127c4486f7745625356c13",
+									"5aafbcd986f7745e590fff23",
+									"59fb016586f7746d0d4b423a",
+									"59fb042886f7746c5005a7b2",
+									"59fb023c86f7746d0d4b423c",
+									"5b6d9ce188a4501afc1b2b25"
+								]
+							}
+						],
+						"cellsH": 4,
+						"cellsV": 5,
+						"minCount": 0,
+						"maxCount": 0,
+						"maxWeight": 0,
+						"isSortingTable": false
+					},
+					"_proto": "55d329c24bdc2d892f8b4567"
+				}
+			],
+			"Slots": [],
+			"CanPutIntoDuringTheRaid": true,
+			"CantRemoveFromSlotsDuringRaid": [],
+			"SearchSound": "looting_body_extended",
+			"BlocksArmorVest": false,
+			"speedPenaltyPercent": -2,
+			"GridLayoutName": ""
+		},
+		"_proto": "545cdae64bdc2d39198b4568"
+	},
+	{
+		"_id": "5df8a4d786f77412672a1e3b",
+		"_name": "backpack_Raid_6SH118",
+		"_parent": "5448e53e4bdc2d60728b4567",
+		"_type": "Item",
+		"_props": {
+			"Name": "sso_attack",
+			"ShortName": "sso_attack",
+			"Description": "sso_attack",
+			"Weight": 6.36,
+			"BackgroundColor": "violet",
+			"Width": 6,
+			"Height": 7,
+			"StackMaxSize": 1,
+			"ItemSound": "gear_backpack",
+			"Prefab": {
+				"path": "assets/content/items/equipment/backpack_6sh118/item_equipment_backpack_6sh118.bundle",
+				"rcid": ""
+			},
+			"UsePrefab": {
+				"path": "",
+				"rcid": ""
+			},
+			"StackObjectsCount": 1,
+			"NotShownInSlot": false,
+			"ExaminedByDefault": false,
+			"ExamineTime": 1,
+			"IsUndiscardable": false,
+			"IsUnsaleable": false,
+			"IsUnbuyable": false,
+			"IsUngivable": false,
+			"IsLockedafterEquip": false,
+			"QuestItem": false,
+			"LootExperience": 20,
+			"ExamineExperience": 2,
+			"HideEntrails": true,
+			"RepairCost": 0,
+			"RepairSpeed": 0,
+			"ExtraSizeLeft": 0,
+			"ExtraSizeRight": 0,
+			"ExtraSizeUp": 0,
+			"ExtraSizeDown": 0,
+			"ExtraSizeForceAdd": false,
+			"MergesWithChildren": false,
+			"CanSellOnRagfair": false,
+			"CanRequireOnRagfair": false,
+			"ConflictingItems": [],
+			"Unlootable": false,
+			"UnlootableFromSlot": "FirstPrimaryWeapon",
+			"UnlootableFromSide": [],
+			"AnimationVariantsNumber": 0,
+			"DiscardingBlock": false,
+			"RagFairCommissionModifier": 1,
+			"IsAlwaysAvailableForInsurance": false,
+			"DiscardLimit": -1,
+			"DropSoundType": "None",
+			"Grids": [
+				{
+					"_name": "main",
+					"_id": "5df8a4d786f77412672a1e3d",
+					"_parent": "5df8a4d786f77412672a1e3b",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"54009119af1c881c07000029"
+								],
+								"ExcludedFilter": [
+									"5448bf274bdc2dfc2f8b456a",
+									"5c093db286f7740a1b2617e3",
+									"5e2af55f86f7746d4159f07c",
+									"5c0a840b86f7742ffa4f2482",
+									"5b7c710788a4506dec015957",
+									"5c127c4486f7745625356c13",
+									"5aafbcd986f7745e590fff23",
+									"59fb016586f7746d0d4b423a",
+									"59fb042886f7746c5005a7b2",
+									"59fb023c86f7746d0d4b423c",
+									"5b6d9ce188a4501afc1b2b25"
+								]
+							}
+						],
+						"cellsH": 6,
+						"cellsV": 8,
+						"minCount": 0,
+						"maxCount": 0,
+						"maxWeight": 0,
+						"isSortingTable": false
+					},
+					"_proto": "55d329c24bdc2d892f8b4567"
+				}
+			],
+			"Slots": [],
+			"CanPutIntoDuringTheRaid": true,
+			"CantRemoveFromSlotsDuringRaid": [],
+			"SearchSound": "looting_body_extended",
+			"BlocksArmorVest": false,
+			"speedPenaltyPercent": -45,
+			"GridLayoutName": ""
+		},
+		"_proto": "545cdae64bdc2d39198b4568"
+	},
+	{
+		"_id": "5ab8f04f86f774585f4237d8",
+		"_name": "backpack_molle",
+		"_parent": "5448e53e4bdc2d60728b4567",
+		"_type": "Item",
+		"_props": {
+			"Name": "backpack molle",
+			"ShortName": "backpack molle",
+			"Description": "backpack molle",
+			"Weight": 0.48,
+			"BackgroundColor": "violet",
+			"Width": 3,
+			"Height": 3,
+			"StackMaxSize": 1,
+			"ItemSound": "gear_backpack",
+			"Prefab": {
+				"path": "assets/content/items/equipment/backpack_molle/item_equipment_backpack_molle.bundle",
+				"rcid": ""
+			},
+			"UsePrefab": {
+				"path": "",
+				"rcid": ""
+			},
+			"StackObjectsCount": 1,
+			"NotShownInSlot": false,
+			"ExaminedByDefault": false,
+			"ExamineTime": 1,
+			"IsUndiscardable": false,
+			"IsUnsaleable": false,
+			"IsUnbuyable": false,
+			"IsUngivable": false,
+			"IsLockedafterEquip": false,
+			"QuestItem": false,
+			"LootExperience": 20,
+			"ExamineExperience": 2,
+			"HideEntrails": true,
+			"RepairCost": 0,
+			"RepairSpeed": 0,
+			"ExtraSizeLeft": 0,
+			"ExtraSizeRight": 0,
+			"ExtraSizeUp": 0,
+			"ExtraSizeDown": 0,
+			"ExtraSizeForceAdd": false,
+			"MergesWithChildren": false,
+			"CanSellOnRagfair": true,
+			"CanRequireOnRagfair": true,
+			"ConflictingItems": [],
+			"Unlootable": false,
+			"UnlootableFromSlot": "FirstPrimaryWeapon",
+			"UnlootableFromSide": [],
+			"AnimationVariantsNumber": 0,
+			"DiscardingBlock": false,
+			"RagFairCommissionModifier": 1,
+			"IsAlwaysAvailableForInsurance": false,
+			"DiscardLimit": -1,
+			"DropSoundType": "None",
+			"Grids": [
+				{
+					"_name": "main",
+					"_id": "5ab8f04f86f774585f4237da",
+					"_parent": "5ab8f04f86f774585f4237d8",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"54009119af1c881c07000029"
+								],
+								"ExcludedFilter": [
+									"5448bf274bdc2dfc2f8b456a",
+									"5c093db286f7740a1b2617e3",
+									"5e2af55f86f7746d4159f07c",
+									"5c0a840b86f7742ffa4f2482",
+									"5b7c710788a4506dec015957",
+									"5c127c4486f7745625356c13",
+									"5aafbcd986f7745e590fff23",
+									"59fb016586f7746d0d4b423a",
+									"59fb042886f7746c5005a7b2",
+									"59fb023c86f7746d0d4b423c",
+									"5b6d9ce188a4501afc1b2b25"
+								]
+							}
+						],
+						"cellsH": 3,
+						"cellsV": 2,
+						"minCount": 0,
+						"maxCount": 0,
+						"maxWeight": 0,
+						"isSortingTable": false
+					},
+					"_proto": "55d329c24bdc2d892f8b4567"
+				}
+			],
+			"Slots": [],
+			"CanPutIntoDuringTheRaid": true,
+			"CantRemoveFromSlotsDuringRaid": [],
+			"SearchSound": "looting_body_extended",
+			"BlocksArmorVest": false,
+			"speedPenaltyPercent": 0,
+			"GridLayoutName": ""
+		},
+		"_proto": "56e33634d2720bd8058b456b"
+	},
+	{
+		"_id": "59e763f286f7742ee57895da",
+		"_name": "backpack_pilgrim",
+		"_parent": "5448e53e4bdc2d60728b4567",
+		"_type": "Item",
+		"_props": {
+			"Name": "Pilgrim",
+			"ShortName": "Pilgrim",
+			"Description": "Pilgrim",
+			"Weight": 3.48,
+			"BackgroundColor": "violet",
+			"Width": 5,
+			"Height": 7,
+			"StackMaxSize": 1,
+			"ItemSound": "gear_backpack",
+			"Prefab": {
+				"path": "assets/content/items/equipment/backpack_pilgrim/item_equipment_backpack_pilgrim.bundle",
+				"rcid": ""
+			},
+			"UsePrefab": {
+				"path": "",
+				"rcid": ""
+			},
+			"StackObjectsCount": 1,
+			"NotShownInSlot": false,
+			"ExaminedByDefault": false,
+			"ExamineTime": 1,
+			"IsUndiscardable": false,
+			"IsUnsaleable": false,
+			"IsUnbuyable": false,
+			"IsUngivable": false,
+			"IsLockedafterEquip": false,
+			"QuestItem": false,
+			"LootExperience": 20,
+			"ExamineExperience": 10,
+			"HideEntrails": true,
+			"RepairCost": 0,
+			"RepairSpeed": 0,
+			"ExtraSizeLeft": 0,
+			"ExtraSizeRight": 0,
+			"ExtraSizeUp": 0,
+			"ExtraSizeDown": 0,
+			"ExtraSizeForceAdd": false,
+			"MergesWithChildren": false,
+			"CanSellOnRagfair": false,
+			"CanRequireOnRagfair": false,
+			"ConflictingItems": [],
+			"Unlootable": false,
+			"UnlootableFromSlot": "FirstPrimaryWeapon",
+			"UnlootableFromSide": [],
+			"AnimationVariantsNumber": 0,
+			"DiscardingBlock": false,
+			"RagFairCommissionModifier": 1,
+			"IsAlwaysAvailableForInsurance": false,
+			"DiscardLimit": -1,
+			"DropSoundType": "None",
+			"Grids": [
+				{
+					"_name": "main",
+					"_id": "59e763f286f7742ee57895db",
+					"_parent": "59e763f286f7742ee57895da",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"54009119af1c881c07000029"
+								],
+								"ExcludedFilter": [
+									"5448bf274bdc2dfc2f8b456a",
+									"5c093db286f7740a1b2617e3",
+									"5e2af55f86f7746d4159f07c",
+									"5c0a840b86f7742ffa4f2482",
+									"5b7c710788a4506dec015957",
+									"5c127c4486f7745625356c13",
+									"5aafbcd986f7745e590fff23",
+									"59fb016586f7746d0d4b423a",
+									"59fb042886f7746c5005a7b2",
+									"59fb023c86f7746d0d4b423c",
+									"5b6d9ce188a4501afc1b2b25"
+								]
+							}
+						],
+						"cellsH": 5,
+						"cellsV": 7,
+						"minCount": 0,
+						"maxCount": 0,
+						"maxWeight": 0,
+						"isSortingTable": false
+					},
+					"_proto": "55d329c24bdc2d892f8b4567"
+				}
+			],
+			"Slots": [],
+			"CanPutIntoDuringTheRaid": true,
+			"CantRemoveFromSlotsDuringRaid": [],
+			"SearchSound": "looting_body_extended",
+			"BlocksArmorVest": false,
+			"speedPenaltyPercent": -28,
+			"GridLayoutName": ""
+		},
+		"_proto": "544a5cde4bdc2d39388b456b"
+	},
+	{
+		"_id": "61b9e1aaef9a1b5d6a79899a",
+		"_name": "backpack_pilgrim_red",
+		"_parent": "5448e53e4bdc2d60728b4567",
+		"_type": "Item",
+		"_props": {
+			"Name": "Pilgrim",
+			"ShortName": "Pilgrim",
+			"Description": "Pilgrim",
+			"Weight": 2.64,
+			"BackgroundColor": "violet",
+			"Width": 5,
+			"Height": 7,
+			"StackMaxSize": 1,
+			"ItemSound": "gear_backpack",
+			"Prefab": {
+				"path": "assets/content/items/equipment/backpack_pilgrim/item_equipment_backpack_pilgrim_christmas.bundle",
+				"rcid": ""
+			},
+			"UsePrefab": {
+				"path": "",
+				"rcid": ""
+			},
+			"StackObjectsCount": 1,
+			"NotShownInSlot": false,
+			"ExaminedByDefault": false,
+			"ExamineTime": 1,
+			"IsUndiscardable": false,
+			"IsUnsaleable": false,
+			"IsUnbuyable": false,
+			"IsUngivable": false,
+			"IsLockedafterEquip": false,
+			"QuestItem": false,
+			"LootExperience": 20,
+			"ExamineExperience": 10,
+			"HideEntrails": true,
+			"RepairCost": 0,
+			"RepairSpeed": 0,
+			"ExtraSizeLeft": 0,
+			"ExtraSizeRight": 0,
+			"ExtraSizeUp": 0,
+			"ExtraSizeDown": 0,
+			"ExtraSizeForceAdd": false,
+			"MergesWithChildren": false,
+			"CanSellOnRagfair": false,
+			"CanRequireOnRagfair": false,
+			"ConflictingItems": [],
+			"Unlootable": false,
+			"UnlootableFromSlot": "FirstPrimaryWeapon",
+			"UnlootableFromSide": [],
+			"AnimationVariantsNumber": 0,
+			"DiscardingBlock": false,
+			"RagFairCommissionModifier": 1,
+			"IsAlwaysAvailableForInsurance": false,
+			"DiscardLimit": -1,
+			"DropSoundType": "None",
+			"Grids": [
+				{
+					"_name": "main",
+					"_id": "61b9e1aaef9a1b5d6a79899c",
+					"_parent": "61b9e1aaef9a1b5d6a79899a",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"54009119af1c881c07000029"
+								],
+								"ExcludedFilter": [
+									"5448bf274bdc2dfc2f8b456a",
+									"5c093db286f7740a1b2617e3",
+									"5e2af55f86f7746d4159f07c",
+									"5c0a840b86f7742ffa4f2482",
+									"5b7c710788a4506dec015957",
+									"5c127c4486f7745625356c13",
+									"5aafbcd986f7745e590fff23",
+									"59fb016586f7746d0d4b423a",
+									"59fb042886f7746c5005a7b2",
+									"59fb023c86f7746d0d4b423c",
+									"5b6d9ce188a4501afc1b2b25"
+								]
+							}
+						],
+						"cellsH": 5,
+						"cellsV": 7,
+						"minCount": 0,
+						"maxCount": 0,
+						"maxWeight": 0,
+						"isSortingTable": false
+					},
+					"_proto": "55d329c24bdc2d892f8b4567"
+				}
+			],
+			"Slots": [],
+			"CanPutIntoDuringTheRaid": true,
+			"CantRemoveFromSlotsDuringRaid": [],
+			"SearchSound": "looting_body_extended",
+			"BlocksArmorVest": false,
+			"speedPenaltyPercent": -28,
+			"GridLayoutName": ""
+		},
+		"_proto": "544a5cde4bdc2d39388b456b"
+	},
+	{
+		"_id": "5e997f0b86f7741ac73993e2",
+		"_name": "backpack_sanitar_medbag",
+		"_parent": "5448e53e4bdc2d60728b4567",
+		"_type": "Item",
+		"_props": {
+			"Name": "Sanitar bag",
+			"ShortName": "Sanitar bag",
+			"Description": "Sanitar bag",
+			"Weight": 1.44,
+			"BackgroundColor": "violet",
+			"Width": 4,
+			"Height": 4,
+			"StackMaxSize": 1,
+			"ItemSound": "gear_backpack",
+			"Prefab": {
+				"path": "assets/content/items/equipment/backpack_sanitar_medbag/backpack_sanitar_medbag.bundle",
+				"rcid": ""
+			},
+			"UsePrefab": {
+				"path": "",
+				"rcid": ""
+			},
+			"StackObjectsCount": 1,
+			"NotShownInSlot": false,
+			"ExaminedByDefault": false,
+			"ExamineTime": 1,
+			"IsUndiscardable": false,
+			"IsUnsaleable": false,
+			"IsUnbuyable": false,
+			"IsUngivable": false,
+			"IsLockedafterEquip": false,
+			"QuestItem": false,
+			"LootExperience": 20,
+			"ExamineExperience": 2,
+			"HideEntrails": true,
+			"RepairCost": 0,
+			"RepairSpeed": 0,
+			"ExtraSizeLeft": 0,
+			"ExtraSizeRight": 0,
+			"ExtraSizeUp": 0,
+			"ExtraSizeDown": 0,
+			"ExtraSizeForceAdd": false,
+			"MergesWithChildren": false,
+			"CanSellOnRagfair": true,
+			"CanRequireOnRagfair": true,
+			"ConflictingItems": [],
+			"Unlootable": false,
+			"UnlootableFromSlot": "FirstPrimaryWeapon",
+			"UnlootableFromSide": [],
+			"AnimationVariantsNumber": 0,
+			"DiscardingBlock": false,
+			"RagFairCommissionModifier": 1,
+			"IsAlwaysAvailableForInsurance": false,
+			"DiscardLimit": -1,
+			"DropSoundType": "None",
+			"Grids": [
+				{
+					"_name": "main",
+					"_id": "5e997f0b86f7741ac73993e4",
+					"_parent": "5e997f0b86f7741ac73993e2",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"54009119af1c881c07000029"
+								],
+								"ExcludedFilter": [
+									"5448bf274bdc2dfc2f8b456a",
+									"5c093db286f7740a1b2617e3",
+									"5e2af55f86f7746d4159f07c",
+									"5c0a840b86f7742ffa4f2482",
+									"5b7c710788a4506dec015957",
+									"5c127c4486f7745625356c13",
+									"5aafbcd986f7745e590fff23",
+									"59fb016586f7746d0d4b423a",
+									"59fb042886f7746c5005a7b2",
+									"59fb023c86f7746d0d4b423c",
+									"5b6d9ce188a4501afc1b2b25"
+								]
+							}
+						],
+						"cellsH": 4,
+						"cellsV": 4,
+						"minCount": 0,
+						"maxCount": 0,
+						"maxWeight": 0,
+						"isSortingTable": false
+					},
+					"_proto": "55d329c24bdc2d892f8b4567"
+				}
+			],
+			"Slots": [],
+			"CanPutIntoDuringTheRaid": true,
+			"CantRemoveFromSlotsDuringRaid": [],
+			"SearchSound": "looting_body_extended",
+			"BlocksArmorVest": false,
+			"speedPenaltyPercent": 0,
+			"GridLayoutName": ""
+		},
+		"_proto": "56e335e4d2720b6c058b456d"
+	},
+	{
+		"_id": "5ab8ebf186f7742d8b372e80",
+		"_name": "backpack_sso_attack2",
+		"_parent": "5448e53e4bdc2d60728b4567",
+		"_type": "Item",
+		"_props": {
+			"Name": "sso_attack",
+			"ShortName": "sso_attack",
+			"Description": "sso_attack",
+			"Weight": 6.12,
+			"BackgroundColor": "violet",
+			"Width": 5,
+			"Height": 7,
+			"StackMaxSize": 1,
+			"ItemSound": "gear_backpack",
+			"Prefab": {
+				"path": "assets/content/items/equipment/backpack_sso/item_equipment_backpack_sso.bundle",
+				"rcid": ""
+			},
+			"UsePrefab": {
+				"path": "",
+				"rcid": ""
+			},
+			"StackObjectsCount": 1,
+			"NotShownInSlot": false,
+			"ExaminedByDefault": false,
+			"ExamineTime": 1,
+			"IsUndiscardable": false,
+			"IsUnsaleable": false,
+			"IsUnbuyable": false,
+			"IsUngivable": false,
+			"IsLockedafterEquip": false,
+			"QuestItem": false,
+			"LootExperience": 20,
+			"ExamineExperience": 2,
+			"HideEntrails": true,
+			"RepairCost": 0,
+			"RepairSpeed": 0,
+			"ExtraSizeLeft": 0,
+			"ExtraSizeRight": 0,
+			"ExtraSizeUp": 0,
+			"ExtraSizeDown": 0,
+			"ExtraSizeForceAdd": false,
+			"MergesWithChildren": false,
+			"CanSellOnRagfair": false,
+			"CanRequireOnRagfair": false,
+			"ConflictingItems": [],
+			"Unlootable": false,
+			"UnlootableFromSlot": "FirstPrimaryWeapon",
+			"UnlootableFromSide": [],
+			"AnimationVariantsNumber": 0,
+			"DiscardingBlock": false,
+			"RagFairCommissionModifier": 1,
+			"IsAlwaysAvailableForInsurance": false,
+			"DiscardLimit": -1,
+			"DropSoundType": "None",
+			"Grids": [
+				{
+					"_name": "main",
+					"_id": "5ab8ebf186f7742d8b372e82",
+					"_parent": "5ab8ebf186f7742d8b372e80",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"54009119af1c881c07000029"
+								],
+								"ExcludedFilter": [
+									"5448bf274bdc2dfc2f8b456a",
+									"5c093db286f7740a1b2617e3",
+									"5e2af55f86f7746d4159f07c",
+									"5c0a840b86f7742ffa4f2482",
+									"5b7c710788a4506dec015957",
+									"5c127c4486f7745625356c13",
+									"5aafbcd986f7745e590fff23",
+									"59fb016586f7746d0d4b423a",
+									"59fb042886f7746c5005a7b2",
+									"59fb023c86f7746d0d4b423c",
+									"5b6d9ce188a4501afc1b2b25"
+								]
+							}
+						],
+						"cellsH": 5,
+						"cellsV": 7,
+						"minCount": 0,
+						"maxCount": 0,
+						"maxWeight": 0,
+						"isSortingTable": false
+					},
+					"_proto": "55d329c24bdc2d892f8b4567"
+				}
+			],
+			"Slots": [],
+			"CanPutIntoDuringTheRaid": true,
+			"CantRemoveFromSlotsDuringRaid": [],
+			"SearchSound": "looting_body_extended",
+			"BlocksArmorVest": false,
+			"speedPenaltyPercent": -20,
+			"GridLayoutName": ""
+		},
+		"_proto": "545cdae64bdc2d39198b4568"
+	},
+	{
+		"_id": "5ab8ee7786f7742d8f33f0b9",
+		"_name": "backpack_vkboarmy",
+		"_parent": "5448e53e4bdc2d60728b4567",
+		"_type": "Item",
+		"_props": {
+			"Name": "army bag",
+			"ShortName": "army bag",
+			"Description": "army bag",
+			"Weight": 0.96,
+			"BackgroundColor": "violet",
+			"Width": 3,
+			"Height": 4,
+			"StackMaxSize": 1,
+			"ItemSound": "gear_backpack",
+			"Prefab": {
+				"path": "assets/content/items/equipment/backpack_vkbo/item_equipment_backpack_vkbo.bundle",
+				"rcid": ""
+			},
+			"UsePrefab": {
+				"path": "",
+				"rcid": ""
+			},
+			"StackObjectsCount": 1,
+			"NotShownInSlot": false,
+			"ExaminedByDefault": true,
+			"ExamineTime": 1,
+			"IsUndiscardable": false,
+			"IsUnsaleable": false,
+			"IsUnbuyable": false,
+			"IsUngivable": false,
+			"IsLockedafterEquip": false,
+			"QuestItem": false,
+			"LootExperience": 20,
+			"ExamineExperience": 2,
+			"HideEntrails": true,
+			"RepairCost": 0,
+			"RepairSpeed": 0,
+			"ExtraSizeLeft": 0,
+			"ExtraSizeRight": 0,
+			"ExtraSizeUp": 0,
+			"ExtraSizeDown": 0,
+			"ExtraSizeForceAdd": false,
+			"MergesWithChildren": false,
+			"CanSellOnRagfair": true,
+			"CanRequireOnRagfair": true,
+			"ConflictingItems": [],
+			"Unlootable": false,
+			"UnlootableFromSlot": "FirstPrimaryWeapon",
+			"UnlootableFromSide": [],
+			"AnimationVariantsNumber": 0,
+			"DiscardingBlock": false,
+			"RagFairCommissionModifier": 1,
+			"IsAlwaysAvailableForInsurance": false,
+			"DiscardLimit": -1,
+			"DropSoundType": "None",
+			"Grids": [
+				{
+					"_name": "main",
+					"_id": "5ab8ee7786f7742d8f33f0bb",
+					"_parent": "5ab8ee7786f7742d8f33f0b9",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"54009119af1c881c07000029"
+								],
+								"ExcludedFilter": [
+									"5448bf274bdc2dfc2f8b456a",
+									"5c093db286f7740a1b2617e3",
+									"5e2af55f86f7746d4159f07c",
+									"5c0a840b86f7742ffa4f2482",
+									"5b7c710788a4506dec015957",
+									"5c127c4486f7745625356c13",
+									"5aafbcd986f7745e590fff23",
+									"59fb016586f7746d0d4b423a",
+									"59fb042886f7746c5005a7b2",
+									"59fb023c86f7746d0d4b423c",
+									"5b6d9ce188a4501afc1b2b25"
+								]
+							}
+						],
+						"cellsH": 4,
+						"cellsV": 2,
+						"minCount": 0,
+						"maxCount": 0,
+						"maxWeight": 0,
+						"isSortingTable": false
+					},
+					"_proto": "55d329c24bdc2d892f8b4567"
+				}
+			],
+			"Slots": [],
+			"CanPutIntoDuringTheRaid": true,
+			"CantRemoveFromSlotsDuringRaid": [],
+			"SearchSound": "looting_body_extended",
+			"BlocksArmorVest": false,
+			"speedPenaltyPercent": 0,
+			"GridLayoutName": ""
+		},
+		"_proto": "56e335e4d2720b6c058b456d"
+	},
+	{
+		"_id": "56e33634d2720bd8058b456b",
+		"_name": "forward_backpack",
+		"_parent": "5448e53e4bdc2d60728b4567",
+		"_type": "Item",
+		"_props": {
+			"Name": "Forward into Backpack",
+			"ShortName": "FiB",
+			"Description": "Forward into Backpack",
+			"Weight": 1.08,
+			"BackgroundColor": "violet",
+			"Width": 4,
+			"Height": 3,
+			"StackMaxSize": 1,
+			"ItemSound": "gear_backpack",
+			"Prefab": {
+				"path": "assets/content/items/equipment/backpack_sportbag/item_equipment_backpack_sportbag.bundle",
+				"rcid": ""
+			},
+			"UsePrefab": {
+				"path": "",
+				"rcid": ""
+			},
+			"StackObjectsCount": 1,
+			"NotShownInSlot": false,
+			"ExaminedByDefault": false,
+			"ExamineTime": 1,
+			"IsUndiscardable": false,
+			"IsUnsaleable": false,
+			"IsUnbuyable": false,
+			"IsUngivable": false,
+			"IsLockedafterEquip": false,
+			"QuestItem": false,
+			"LootExperience": 20,
+			"ExamineExperience": 2,
+			"HideEntrails": true,
+			"RepairCost": 0,
+			"RepairSpeed": 0,
+			"ExtraSizeLeft": 0,
+			"ExtraSizeRight": 0,
+			"ExtraSizeUp": 0,
+			"ExtraSizeDown": 0,
+			"ExtraSizeForceAdd": false,
+			"MergesWithChildren": false,
+			"CanSellOnRagfair": true,
+			"CanRequireOnRagfair": true,
+			"ConflictingItems": [],
+			"Unlootable": false,
+			"UnlootableFromSlot": "FirstPrimaryWeapon",
+			"UnlootableFromSide": [],
+			"AnimationVariantsNumber": 0,
+			"DiscardingBlock": false,
+			"RagFairCommissionModifier": 1,
+			"IsAlwaysAvailableForInsurance": false,
+			"DiscardLimit": -1,
+			"DropSoundType": "None",
+			"Grids": [
+				{
+					"_name": "main",
+					"_id": "56e33661d2720b4c098b456a",
+					"_parent": "56e33634d2720bd8058b456b",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"54009119af1c881c07000029"
+								],
+								"ExcludedFilter": [
+									"5448bf274bdc2dfc2f8b456a",
+									"5c093db286f7740a1b2617e3",
+									"5e2af55f86f7746d4159f07c",
+									"5c0a840b86f7742ffa4f2482",
+									"5b7c710788a4506dec015957",
+									"5c127c4486f7745625356c13",
+									"5aafbcd986f7745e590fff23",
+									"59fb016586f7746d0d4b423a",
+									"59fb042886f7746c5005a7b2",
+									"59fb023c86f7746d0d4b423c",
+									"5b6d9ce188a4501afc1b2b25"
+								]
+							}
+						],
+						"cellsH": 4,
+						"cellsV": 3,
+						"minCount": 0,
+						"maxCount": 0,
+						"maxWeight": 0,
+						"isSortingTable": false
+					},
+					"_proto": "55d329c24bdc2d892f8b4567"
+				}
+			],
+			"Slots": [],
+			"CanPutIntoDuringTheRaid": true,
+			"CantRemoveFromSlotsDuringRaid": [],
+			"SearchSound": "looting_body_extended",
+			"BlocksArmorVest": false,
+			"speedPenaltyPercent": -8,
+			"GridLayoutName": ""
+		},
+		"_proto": "56e335e4d2720b6c058b456d"
+	},
+	{
+		"_id": "6038d614d10cbf667352dd44",
+		"_name": "item_equipment_backpack_Takedown_sling_multicam",
+		"_parent": "5448e53e4bdc2d60728b4567",
+		"_type": "Item",
+		"_props": {
+			"Name": "Pilgrim",
+			"ShortName": "Pilgrim",
+			"Description": "Pilgrim",
+			"Weight": 1.68,
+			"BackgroundColor": "violet",
+			"Width": 3,
+			"Height": 7,
+			"StackMaxSize": 1,
+			"ItemSound": "gear_backpack",
+			"Prefab": {
+				"path": "assets/content/items/equipment/backpack_takedown_sling/item_equipment_backpack_takedown_sling_multicam.bundle",
+				"rcid": ""
+			},
+			"UsePrefab": {
+				"path": "",
+				"rcid": ""
+			},
+			"StackObjectsCount": 1,
+			"NotShownInSlot": false,
+			"ExaminedByDefault": false,
+			"ExamineTime": 1,
+			"IsUndiscardable": false,
+			"IsUnsaleable": false,
+			"IsUnbuyable": false,
+			"IsUngivable": false,
+			"IsLockedafterEquip": false,
+			"QuestItem": false,
+			"LootExperience": 20,
+			"ExamineExperience": 10,
+			"HideEntrails": true,
+			"RepairCost": 0,
+			"RepairSpeed": 0,
+			"ExtraSizeLeft": 0,
+			"ExtraSizeRight": 0,
+			"ExtraSizeUp": 0,
+			"ExtraSizeDown": 0,
+			"ExtraSizeForceAdd": false,
+			"MergesWithChildren": false,
+			"CanSellOnRagfair": true,
+			"CanRequireOnRagfair": true,
+			"ConflictingItems": [],
+			"Unlootable": false,
+			"UnlootableFromSlot": "FirstPrimaryWeapon",
+			"UnlootableFromSide": [],
+			"AnimationVariantsNumber": 0,
+			"DiscardingBlock": false,
+			"RagFairCommissionModifier": 1,
+			"IsAlwaysAvailableForInsurance": false,
+			"DiscardLimit": -1,
+			"DropSoundType": "None",
+			"Grids": [
+				{
+					"_name": "main",
+					"_id": "6038d614d10cbf667352dd46",
+					"_parent": "6038d614d10cbf667352dd44",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"54009119af1c881c07000029"
+								],
+								"ExcludedFilter": [
+									"6038d614d10cbf667352dd44",
+									"6034d103ca006d2dca39b3f0",
+									"5448bf274bdc2dfc2f8b456a",
+									"5c093db286f7740a1b2617e3",
+									"5e2af55f86f7746d4159f07c",
+									"5c0a840b86f7742ffa4f2482",
+									"5b7c710788a4506dec015957",
+									"5c127c4486f7745625356c13",
+									"5aafbcd986f7745e590fff23",
+									"59fb016586f7746d0d4b423a",
+									"59fb042886f7746c5005a7b2",
+									"59fb023c86f7746d0d4b423c",
+									"5b6d9ce188a4501afc1b2b25"
+								]
+							}
+						],
+						"cellsH": 3,
+						"cellsV": 8,
+						"minCount": 0,
+						"maxCount": 0,
+						"maxWeight": 0,
+						"isSortingTable": false
+					},
+					"_proto": "55d329c24bdc2d892f8b4567"
+				}
+			],
+			"Slots": [],
+			"CanPutIntoDuringTheRaid": true,
+			"CantRemoveFromSlotsDuringRaid": [],
+			"SearchSound": "looting_body_extended",
+			"BlocksArmorVest": false,
+			"speedPenaltyPercent": -6,
+			"GridLayoutName": ""
+		},
+		"_proto": "544a5cde4bdc2d39388b456b"
+	},
+	{
+		"_id": "5b44c6ae86f7742d1627baea",
+		"_name": "item_equipment_backpack_betav2",
+		"_parent": "5448e53e4bdc2d60728b4567",
+		"_type": "Item",
+		"_props": {
+			"Name": "beta2",
+			"ShortName": "beta2",
+			"Description": "beta2",
+			"Weight": 1.32,
+			"BackgroundColor": "violet",
+			"Width": 5,
+			"Height": 5,
+			"StackMaxSize": 1,
+			"ItemSound": "gear_backpack",
+			"Prefab": {
+				"path": "assets/content/items/equipment/backpack_betav2/item_equipment_backpack_betav2.bundle",
+				"rcid": ""
+			},
+			"UsePrefab": {
+				"path": "",
+				"rcid": ""
+			},
+			"StackObjectsCount": 1,
+			"NotShownInSlot": false,
+			"ExaminedByDefault": false,
+			"ExamineTime": 1,
+			"IsUndiscardable": false,
+			"IsUnsaleable": false,
+			"IsUnbuyable": false,
+			"IsUngivable": false,
+			"IsLockedafterEquip": false,
+			"QuestItem": false,
+			"LootExperience": 20,
+			"ExamineExperience": 10,
+			"HideEntrails": true,
+			"RepairCost": 0,
+			"RepairSpeed": 0,
+			"ExtraSizeLeft": 0,
+			"ExtraSizeRight": 0,
+			"ExtraSizeUp": 0,
+			"ExtraSizeDown": 0,
+			"ExtraSizeForceAdd": false,
+			"MergesWithChildren": false,
+			"CanSellOnRagfair": true,
+			"CanRequireOnRagfair": true,
+			"ConflictingItems": [],
+			"Unlootable": false,
+			"UnlootableFromSlot": "FirstPrimaryWeapon",
+			"UnlootableFromSide": [],
+			"AnimationVariantsNumber": 0,
+			"DiscardingBlock": false,
+			"RagFairCommissionModifier": 1,
+			"IsAlwaysAvailableForInsurance": false,
+			"DiscardLimit": -1,
+			"DropSoundType": "None",
+			"Grids": [
+				{
+					"_name": "main",
+					"_id": "5b44c6ae86f7742d1627baec",
+					"_parent": "5b44c6ae86f7742d1627baea",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"54009119af1c881c07000029"
+								],
+								"ExcludedFilter": [
+									"5448bf274bdc2dfc2f8b456a",
+									"5c093db286f7740a1b2617e3",
+									"5e2af55f86f7746d4159f07c",
+									"5c0a840b86f7742ffa4f2482",
+									"5b7c710788a4506dec015957",
+									"5c127c4486f7745625356c13",
+									"5aafbcd986f7745e590fff23",
+									"59fb016586f7746d0d4b423a",
+									"59fb042886f7746c5005a7b2",
+									"59fb023c86f7746d0d4b423c",
+									"5b6d9ce188a4501afc1b2b25"
+								]
+							}
+						],
+						"cellsH": 5,
+						"cellsV": 6,
+						"minCount": 0,
+						"maxCount": 0,
+						"maxWeight": 0,
+						"isSortingTable": false
+					},
+					"_proto": "55d329c24bdc2d892f8b4567"
+				}
+			],
+			"Slots": [],
+			"CanPutIntoDuringTheRaid": true,
+			"CantRemoveFromSlotsDuringRaid": [],
+			"SearchSound": "looting_body_extended",
+			"BlocksArmorVest": false,
+			"speedPenaltyPercent": -10,
+			"GridLayoutName": ""
+		},
+		"_proto": "544a5cde4bdc2d39388b456b"
+	},
+	{
+		"_id": "5c0e774286f77468413cc5b2",
+		"_name": "item_equipment_backpack_blackjack",
+		"_parent": "5448e53e4bdc2d60728b4567",
+		"_type": "Item",
+		"_props": {
+			"Name": "sso_attack",
+			"ShortName": "sso_attack",
+			"Description": "sso_attack",
+			"Weight": 3,
+			"BackgroundColor": "violet",
+			"Width": 5,
+			"Height": 7,
+			"StackMaxSize": 1,
+			"ItemSound": "gear_backpack",
+			"Prefab": {
+				"path": "assets/content/items/equipment/backpack_blackjack/item_equipment_backpack_blackjack.bundle",
+				"rcid": ""
+			},
+			"UsePrefab": {
+				"path": "",
+				"rcid": ""
+			},
+			"StackObjectsCount": 1,
+			"NotShownInSlot": false,
+			"ExaminedByDefault": false,
+			"ExamineTime": 1,
+			"IsUndiscardable": false,
+			"IsUnsaleable": false,
+			"IsUnbuyable": false,
+			"IsUngivable": false,
+			"IsLockedafterEquip": false,
+			"QuestItem": false,
+			"LootExperience": 20,
+			"ExamineExperience": 2,
+			"HideEntrails": true,
+			"RepairCost": 0,
+			"RepairSpeed": 0,
+			"ExtraSizeLeft": 0,
+			"ExtraSizeRight": 0,
+			"ExtraSizeUp": 0,
+			"ExtraSizeDown": 0,
+			"ExtraSizeForceAdd": false,
+			"MergesWithChildren": false,
+			"CanSellOnRagfair": false,
+			"CanRequireOnRagfair": false,
+			"ConflictingItems": [],
+			"Unlootable": false,
+			"UnlootableFromSlot": "FirstPrimaryWeapon",
+			"UnlootableFromSide": [],
+			"AnimationVariantsNumber": 0,
+			"DiscardingBlock": false,
+			"RagFairCommissionModifier": 1,
+			"IsAlwaysAvailableForInsurance": false,
+			"DiscardLimit": -1,
+			"DropSoundType": "None",
+			"Grids": [
+				{
+					"_name": "main",
+					"_id": "5c0e774286f77468413cc5b4",
+					"_parent": "5c0e774286f77468413cc5b2",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"54009119af1c881c07000029"
+								],
+								"ExcludedFilter": [
+									"5448bf274bdc2dfc2f8b456a",
+									"5c093db286f7740a1b2617e3",
+									"5e2af55f86f7746d4159f07c",
+									"5c0a840b86f7742ffa4f2482",
+									"5b7c710788a4506dec015957",
+									"5c127c4486f7745625356c13",
+									"5aafbcd986f7745e590fff23",
+									"59fb016586f7746d0d4b423a",
+									"59fb042886f7746c5005a7b2",
+									"59fb023c86f7746d0d4b423c",
+									"5b6d9ce188a4501afc1b2b25"
+								]
+							}
+						],
+						"cellsH": 6,
+						"cellsV": 7,
+						"minCount": 0,
+						"maxCount": 0,
+						"maxWeight": 0,
+						"isSortingTable": false
+					},
+					"_proto": "55d329c24bdc2d892f8b4567"
+				}
+			],
+			"Slots": [],
+			"CanPutIntoDuringTheRaid": true,
+			"CantRemoveFromSlotsDuringRaid": [],
+			"SearchSound": "looting_body_extended",
+			"BlocksArmorVest": false,
+			"speedPenaltyPercent": -30,
+			"GridLayoutName": ""
+		},
+		"_proto": "545cdae64bdc2d39198b4568"
+	},
+	{
+		"_id": "60a272cc93ef783291411d8e",
+		"_name": "item_equipment_backpack_drawbridge",
+		"_parent": "5448e53e4bdc2d60728b4567",
+		"_type": "Item",
+		"_props": {
+			"Name": "MBSS Backpack",
+			"ShortName": "MBSS",
+			"Description": "",
+			"Weight": 1.56,
+			"BackgroundColor": "violet",
+			"Width": 5,
+			"Height": 5,
+			"StackMaxSize": 1,
+			"ItemSound": "gear_backpack",
+			"Prefab": {
+				"path": "assets/content/items/equipment/backpack_drawbridge/item_equipment_backpack_drawbridge.bundle",
+				"rcid": ""
+			},
+			"UsePrefab": {
+				"path": "",
+				"rcid": ""
+			},
+			"StackObjectsCount": 1,
+			"NotShownInSlot": false,
+			"ExaminedByDefault": false,
+			"ExamineTime": 1,
+			"IsUndiscardable": false,
+			"IsUnsaleable": false,
+			"IsUnbuyable": false,
+			"IsUngivable": false,
+			"IsLockedafterEquip": false,
+			"QuestItem": false,
+			"LootExperience": 20,
+			"ExamineExperience": 10,
+			"HideEntrails": true,
+			"RepairCost": 0,
+			"RepairSpeed": 0,
+			"ExtraSizeLeft": 0,
+			"ExtraSizeRight": 0,
+			"ExtraSizeUp": 0,
+			"ExtraSizeDown": 0,
+			"ExtraSizeForceAdd": false,
+			"MergesWithChildren": false,
+			"CanSellOnRagfair": true,
+			"CanRequireOnRagfair": true,
+			"ConflictingItems": [],
+			"Unlootable": false,
+			"UnlootableFromSlot": "FirstPrimaryWeapon",
+			"UnlootableFromSide": [],
+			"AnimationVariantsNumber": 0,
+			"DiscardingBlock": false,
+			"RagFairCommissionModifier": 1,
+			"IsAlwaysAvailableForInsurance": false,
+			"DiscardLimit": -1,
+			"DropSoundType": "None",
+			"Grids": [
+				{
+					"_name": "main",
+					"_id": "60a272cd93ef783291411d90",
+					"_parent": "60a272cc93ef783291411d8e",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"54009119af1c881c07000029"
+								],
+								"ExcludedFilter": [
+									"60a272cc93ef783291411d8e",
+									"5448bf274bdc2dfc2f8b456a",
+									"5c093db286f7740a1b2617e3",
+									"5e2af55f86f7746d4159f07c",
+									"5c0a840b86f7742ffa4f2482",
+									"5b7c710788a4506dec015957",
+									"5c127c4486f7745625356c13",
+									"5aafbcd986f7745e590fff23",
+									"59fb016586f7746d0d4b423a",
+									"59fb042886f7746c5005a7b2",
+									"59fb023c86f7746d0d4b423c",
+									"5b6d9ce188a4501afc1b2b25"
+								]
+							}
+						],
+						"cellsH": 5,
+						"cellsV": 5,
+						"minCount": 0,
+						"maxCount": 0,
+						"maxWeight": 0,
+						"isSortingTable": false
+					},
+					"_proto": "55d329c24bdc2d892f8b4567"
+				}
+			],
+			"Slots": [],
+			"CanPutIntoDuringTheRaid": true,
+			"CantRemoveFromSlotsDuringRaid": [],
+			"SearchSound": "looting_body_extended",
+			"BlocksArmorVest": false,
+			"speedPenaltyPercent": -5,
+			"GridLayoutName": ""
+		},
+		"_proto": "544a5cde4bdc2d39388b456b"
+	},
+	{
+		"_id": "5f5e46b96bdad616ad46d613",
+		"_name": "item_equipment_backpack_f4terminator",
+		"_parent": "5448e53e4bdc2d60728b4567",
+		"_type": "Item",
+		"_props": {
+			"Name": "sso_attack",
+			"ShortName": "sso_attack",
+			"Description": "sso_attack",
+			"Weight": 4.356,
+			"BackgroundColor": "violet",
+			"Width": 5,
+			"Height": 7,
+			"StackMaxSize": 1,
+			"ItemSound": "gear_backpack",
+			"Prefab": {
+				"path": "assets/content/items/equipment/backpack_f4terminator/item_equipment_backpack_f4terminator.bundle",
+				"rcid": ""
+			},
+			"UsePrefab": {
+				"path": "",
+				"rcid": ""
+			},
+			"StackObjectsCount": 1,
+			"NotShownInSlot": false,
+			"ExaminedByDefault": false,
+			"ExamineTime": 1,
+			"IsUndiscardable": false,
+			"IsUnsaleable": false,
+			"IsUnbuyable": false,
+			"IsUngivable": false,
+			"IsLockedafterEquip": false,
+			"QuestItem": false,
+			"LootExperience": 20,
+			"ExamineExperience": 2,
+			"HideEntrails": true,
+			"RepairCost": 0,
+			"RepairSpeed": 0,
+			"ExtraSizeLeft": 0,
+			"ExtraSizeRight": 0,
+			"ExtraSizeUp": 0,
+			"ExtraSizeDown": 0,
+			"ExtraSizeForceAdd": false,
+			"MergesWithChildren": false,
+			"CanSellOnRagfair": false,
+			"CanRequireOnRagfair": false,
+			"ConflictingItems": [],
+			"Unlootable": false,
+			"UnlootableFromSlot": "FirstPrimaryWeapon",
+			"UnlootableFromSide": [],
+			"AnimationVariantsNumber": 0,
+			"DiscardingBlock": false,
+			"RagFairCommissionModifier": 1,
+			"IsAlwaysAvailableForInsurance": false,
+			"DiscardLimit": -1,
+			"DropSoundType": "None",
+			"Grids": [
+				{
+					"_name": "main",
+					"_id": "5f5e46b96bdad616ad46d615",
+					"_parent": "5f5e46b96bdad616ad46d613",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"54009119af1c881c07000029"
+								],
+								"ExcludedFilter": [
+									"5448bf274bdc2dfc2f8b456a",
+									"5c093db286f7740a1b2617e3",
+									"5e2af55f86f7746d4159f07c",
+									"5c0a840b86f7742ffa4f2482",
+									"5b7c710788a4506dec015957",
+									"5c127c4486f7745625356c13",
+									"5aafbcd986f7745e590fff23",
+									"59fb016586f7746d0d4b423a",
+									"59fb042886f7746c5005a7b2",
+									"59fb023c86f7746d0d4b423c",
+									"5b6d9ce188a4501afc1b2b25"
+								]
+							}
+						],
+						"cellsH": 5,
+						"cellsV": 4,
+						"minCount": 0,
+						"maxCount": 0,
+						"maxWeight": 0,
+						"isSortingTable": false
+					},
+					"_proto": "55d329c24bdc2d892f8b4567"
+				},
+				{
+					"_name": "1",
+					"_id": "5f5f52e86bdad616ad46d63c",
+					"_parent": "5f5e46b96bdad616ad46d613",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"54009119af1c881c07000029"
+								],
+								"ExcludedFilter": [
+									"5448bf274bdc2dfc2f8b456a",
+									"5e2af55f86f7746d4159f07c",
+									"5c0a840b86f7742ffa4f2482",
+									"5b7c710788a4506dec015957",
+									"5aafbcd986f7745e590fff23",
+									"59fb016586f7746d0d4b423a",
+									"59fb042886f7746c5005a7b2",
+									"59fb023c86f7746d0d4b423c",
+									"5b6d9ce188a4501afc1b2b25"
+								]
+							}
+						],
+						"cellsH": 5,
+						"cellsV": 2,
+						"minCount": 0,
+						"maxCount": 0,
+						"maxWeight": 0,
+						"isSortingTable": false
+					},
+					"_proto": "55d329c24bdc2d892f8b4567"
+				},
+				{
+					"_name": "2",
+					"_id": "5f5f52ec5021ce62144be7ca",
+					"_parent": "5f5e46b96bdad616ad46d613",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"54009119af1c881c07000029"
+								],
+								"ExcludedFilter": [
+									"5448bf274bdc2dfc2f8b456a",
+									"5c093db286f7740a1b2617e3",
+									"5e2af55f86f7746d4159f07c",
+									"5c0a840b86f7742ffa4f2482",
+									"5b7c710788a4506dec015957",
+									"5c127c4486f7745625356c13",
+									"5aafbcd986f7745e590fff23",
+									"59fb016586f7746d0d4b423a",
+									"59fb042886f7746c5005a7b2",
+									"59fb023c86f7746d0d4b423c",
+									"5b6d9ce188a4501afc1b2b25"
+								]
+							}
+						],
+						"cellsH": 5,
+						"cellsV": 2,
+						"minCount": 0,
+						"maxCount": 0,
+						"maxWeight": 0,
+						"isSortingTable": false
+					},
+					"_proto": "55d329c24bdc2d892f8b4567"
+				}
+			],
+			"Slots": [],
+			"CanPutIntoDuringTheRaid": true,
+			"CantRemoveFromSlotsDuringRaid": [],
+			"SearchSound": "looting_body_extended",
+			"BlocksArmorVest": false,
+			"speedPenaltyPercent": -23,
+			"GridLayoutName": "f4_term"
+		},
+		"_proto": "545cdae64bdc2d39198b4568"
+	},
+	{
+		"_id": "5f5e467b0bc58666c37e7821",
+		"_name": "item_equipment_backpack_f5switchblade",
+		"_parent": "5448e53e4bdc2d60728b4567",
+		"_type": "Item",
+		"_props": {
+			"Name": "Pilgrim",
+			"ShortName": "Pilgrim",
+			"Description": "Pilgrim",
+			"Weight": 1.572,
+			"BackgroundColor": "violet",
+			"Width": 5,
+			"Height": 6,
+			"StackMaxSize": 1,
+			"ItemSound": "gear_backpack",
+			"Prefab": {
+				"path": "assets/content/items/equipment/backpack_f5switchblade/item_equipment_backpack_f5switchblade.bundle",
+				"rcid": ""
+			},
+			"UsePrefab": {
+				"path": "",
+				"rcid": ""
+			},
+			"StackObjectsCount": 1,
+			"NotShownInSlot": false,
+			"ExaminedByDefault": false,
+			"ExamineTime": 1,
+			"IsUndiscardable": false,
+			"IsUnsaleable": false,
+			"IsUnbuyable": false,
+			"IsUngivable": false,
+			"IsLockedafterEquip": false,
+			"QuestItem": false,
+			"LootExperience": 20,
+			"ExamineExperience": 10,
+			"HideEntrails": true,
+			"RepairCost": 0,
+			"RepairSpeed": 0,
+			"ExtraSizeLeft": 0,
+			"ExtraSizeRight": 0,
+			"ExtraSizeUp": 0,
+			"ExtraSizeDown": 0,
+			"ExtraSizeForceAdd": false,
+			"MergesWithChildren": false,
+			"CanSellOnRagfair": true,
+			"CanRequireOnRagfair": true,
+			"ConflictingItems": [],
+			"Unlootable": false,
+			"UnlootableFromSlot": "FirstPrimaryWeapon",
+			"UnlootableFromSide": [],
+			"AnimationVariantsNumber": 0,
+			"DiscardingBlock": false,
+			"RagFairCommissionModifier": 1,
+			"IsAlwaysAvailableForInsurance": false,
+			"DiscardLimit": -1,
+			"DropSoundType": "None",
+			"Grids": [
+				{
+					"_name": "main",
+					"_id": "5f5e467b0bc58666c37e7823",
+					"_parent": "5f5e467b0bc58666c37e7821",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"54009119af1c881c07000029"
+								],
+								"ExcludedFilter": [
+									"5448bf274bdc2dfc2f8b456a",
+									"5c093db286f7740a1b2617e3",
+									"5e2af55f86f7746d4159f07c",
+									"5c0a840b86f7742ffa4f2482",
+									"5b7c710788a4506dec015957",
+									"5c127c4486f7745625356c13",
+									"5aafbcd986f7745e590fff23",
+									"59fb016586f7746d0d4b423a",
+									"59fb042886f7746c5005a7b2",
+									"59fb023c86f7746d0d4b423c",
+									"5b6d9ce188a4501afc1b2b25"
+								]
+							}
+						],
+						"cellsH": 5,
+						"cellsV": 6,
+						"minCount": 0,
+						"maxCount": 0,
+						"maxWeight": 0,
+						"isSortingTable": false
+					},
+					"_proto": "55d329c24bdc2d892f8b4567"
+				}
+			],
+			"Slots": [],
+			"CanPutIntoDuringTheRaid": true,
+			"CantRemoveFromSlotsDuringRaid": [],
+			"SearchSound": "looting_body_extended",
+			"BlocksArmorVest": false,
+			"speedPenaltyPercent": -10,
+			"GridLayoutName": ""
+		},
+		"_proto": "544a5cde4bdc2d39388b456b"
+	},
+	{
+		"_id": "6034d2d697633951dc245ea6",
+		"_name": "item_equipment_backpack_g2_gunslinger",
+		"_parent": "5448e53e4bdc2d60728b4567",
+		"_type": "Item",
+		"_props": {
+			"Name": "Pilgrim",
+			"ShortName": "Pilgrim",
+			"Description": "Pilgrim",
+			"Weight": 3.36,
+			"BackgroundColor": "violet",
+			"Width": 5,
+			"Height": 7,
+			"StackMaxSize": 1,
+			"ItemSound": "gear_backpack",
+			"Prefab": {
+				"path": "assets/content/items/equipment/backpack_g2_gunslinger/item_equipment_backpack_g2_gunslinger.bundle",
+				"rcid": ""
+			},
+			"UsePrefab": {
+				"path": "",
+				"rcid": ""
+			},
+			"StackObjectsCount": 1,
+			"NotShownInSlot": false,
+			"ExaminedByDefault": false,
+			"ExamineTime": 1,
+			"IsUndiscardable": false,
+			"IsUnsaleable": false,
+			"IsUnbuyable": false,
+			"IsUngivable": false,
+			"IsLockedafterEquip": false,
+			"QuestItem": false,
+			"LootExperience": 20,
+			"ExamineExperience": 10,
+			"HideEntrails": true,
+			"RepairCost": 0,
+			"RepairSpeed": 0,
+			"ExtraSizeLeft": 0,
+			"ExtraSizeRight": 0,
+			"ExtraSizeUp": 0,
+			"ExtraSizeDown": 0,
+			"ExtraSizeForceAdd": false,
+			"MergesWithChildren": false,
+			"CanSellOnRagfair": false,
+			"CanRequireOnRagfair": false,
+			"ConflictingItems": [],
+			"Unlootable": false,
+			"UnlootableFromSlot": "FirstPrimaryWeapon",
+			"UnlootableFromSide": [],
+			"AnimationVariantsNumber": 0,
+			"DiscardingBlock": false,
+			"RagFairCommissionModifier": 1,
+			"IsAlwaysAvailableForInsurance": false,
+			"DiscardLimit": -1,
+			"DropSoundType": "None",
+			"Grids": [
+				{
+					"_name": "main",
+					"_id": "6034d2d697633951dc245ea8",
+					"_parent": "6034d2d697633951dc245ea6",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"54009119af1c881c07000029"
+								],
+								"ExcludedFilter": [
+									"5448bf274bdc2dfc2f8b456a",
+									"5c093db286f7740a1b2617e3",
+									"5e2af55f86f7746d4159f07c",
+									"5c0a840b86f7742ffa4f2482",
+									"5b7c710788a4506dec015957",
+									"5c127c4486f7745625356c13",
+									"5aafbcd986f7745e590fff23",
+									"59fb016586f7746d0d4b423a",
+									"59fb042886f7746c5005a7b2",
+									"59fb023c86f7746d0d4b423c",
+									"5b6d9ce188a4501afc1b2b25"
+								]
+							}
+						],
+						"cellsH": 3,
+						"cellsV": 5,
+						"minCount": 0,
+						"maxCount": 0,
+						"maxWeight": 0,
+						"isSortingTable": false
+					},
+					"_proto": "55d329c24bdc2d892f8b4567"
+				},
+				{
+					"_name": "1",
+					"_id": "6034d2d697633951dc245ea9",
+					"_parent": "6034d2d697633951dc245ea6",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"54009119af1c881c07000029"
+								],
+								"ExcludedFilter": [
+									"5448bf274bdc2dfc2f8b456a",
+									"5e2af55f86f7746d4159f07c",
+									"5c0a840b86f7742ffa4f2482",
+									"5b7c710788a4506dec015957",
+									"5aafbcd986f7745e590fff23",
+									"59fb016586f7746d0d4b423a",
+									"59fb042886f7746c5005a7b2",
+									"59fb023c86f7746d0d4b423c",
+									"5b6d9ce188a4501afc1b2b25"
+								]
+							}
+						],
+						"cellsH": 2,
+						"cellsV": 7,
+						"minCount": 0,
+						"maxCount": 0,
+						"maxWeight": 0,
+						"isSortingTable": false
+					},
+					"_proto": "55d329c24bdc2d892f8b4567"
+				},
+				{
+					"_name": "2",
+					"_id": "6034d2d697633951dc245eaa",
+					"_parent": "6034d2d697633951dc245ea6",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"54009119af1c881c07000029"
+								],
+								"ExcludedFilter": [
+									"5448bf274bdc2dfc2f8b456a",
+									"5e2af55f86f7746d4159f07c",
+									"5c0a840b86f7742ffa4f2482",
+									"5b7c710788a4506dec015957",
+									"5aafbcd986f7745e590fff23",
+									"59fb016586f7746d0d4b423a",
+									"59fb042886f7746c5005a7b2",
+									"59fb023c86f7746d0d4b423c",
+									"5b6d9ce188a4501afc1b2b25"
+								]
+							}
+						],
+						"cellsH": 3,
+						"cellsV": 2,
+						"minCount": 0,
+						"maxCount": 0,
+						"maxWeight": 0,
+						"isSortingTable": false
+					},
+					"_proto": "55d329c24bdc2d892f8b4567"
+				}
+			],
+			"Slots": [],
+			"CanPutIntoDuringTheRaid": true,
+			"CantRemoveFromSlotsDuringRaid": [],
+			"SearchSound": "looting_body_extended",
+			"BlocksArmorVest": false,
+			"speedPenaltyPercent": -8,
+			"GridLayoutName": "gunslinger1"
+		},
+		"_proto": "544a5cde4bdc2d39388b456b"
+	},
+	{
+		"_id": "628e1ffc83ec92260c0f437f",
+		"_name": "item_equipment_backpack_gr99_t30",
+		"_parent": "5448e53e4bdc2d60728b4567",
+		"_type": "Item",
+		"_props": {
+			"Name": "Pilgrim",
+			"ShortName": "Pilgrim",
+			"Description": "Pilgrim",
+			"Weight": 2.22,
+			"BackgroundColor": "violet",
+			"Width": 5,
+			"Height": 6,
+			"StackMaxSize": 1,
+			"ItemSound": "gear_backpack",
+			"Prefab": {
+				"path": "assets/content/items/equipment/backpack_gr99t30/item_equipment_backpack_gr99t30_black.bundle",
+				"rcid": ""
+			},
+			"UsePrefab": {
+				"path": "",
+				"rcid": ""
+			},
+			"StackObjectsCount": 1,
+			"NotShownInSlot": false,
+			"ExaminedByDefault": false,
+			"ExamineTime": 1,
+			"IsUndiscardable": false,
+			"IsUnsaleable": false,
+			"IsUnbuyable": false,
+			"IsUngivable": false,
+			"IsLockedafterEquip": false,
+			"QuestItem": false,
+			"LootExperience": 20,
+			"ExamineExperience": 10,
+			"HideEntrails": true,
+			"RepairCost": 0,
+			"RepairSpeed": 0,
+			"ExtraSizeLeft": 0,
+			"ExtraSizeRight": 0,
+			"ExtraSizeUp": 0,
+			"ExtraSizeDown": 0,
+			"ExtraSizeForceAdd": false,
+			"MergesWithChildren": false,
+			"CanSellOnRagfair": true,
+			"CanRequireOnRagfair": true,
+			"ConflictingItems": [],
+			"Unlootable": false,
+			"UnlootableFromSlot": "FirstPrimaryWeapon",
+			"UnlootableFromSide": [],
+			"AnimationVariantsNumber": 0,
+			"DiscardingBlock": false,
+			"RagFairCommissionModifier": 1,
+			"IsAlwaysAvailableForInsurance": false,
+			"DiscardLimit": -1,
+			"DropSoundType": "None",
+			"Grids": [
+				{
+					"_name": "main",
+					"_id": "628e1ffc83ec92260c0f4381",
+					"_parent": "628e1ffc83ec92260c0f437f",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"54009119af1c881c07000029"
+								],
+								"ExcludedFilter": [
+									"5448bf274bdc2dfc2f8b456a",
+									"5c093db286f7740a1b2617e3",
+									"5e2af55f86f7746d4159f07c",
+									"5c0a840b86f7742ffa4f2482",
+									"5b7c710788a4506dec015957",
+									"5c127c4486f7745625356c13",
+									"5aafbcd986f7745e590fff23",
+									"59fb016586f7746d0d4b423a",
+									"59fb042886f7746c5005a7b2",
+									"59fb023c86f7746d0d4b423c",
+									"5b6d9ce188a4501afc1b2b25"
+								]
+							}
+						],
+						"cellsH": 5,
+						"cellsV": 6,
+						"minCount": 0,
+						"maxCount": 0,
+						"maxWeight": 0,
+						"isSortingTable": false
+					},
+					"_proto": "55d329c24bdc2d892f8b4567"
+				}
+			],
+			"Slots": [],
+			"CanPutIntoDuringTheRaid": true,
+			"CantRemoveFromSlotsDuringRaid": [],
+			"SearchSound": "looting_body_extended",
+			"BlocksArmorVest": false,
+			"speedPenaltyPercent": -8,
+			"GridLayoutName": ""
+		},
+		"_proto": "544a5cde4bdc2d39388b456b"
+	},
+	{
+		"_id": "62a1b7fbc30cfa1d366af586",
+		"_name": "item_equipment_backpack_gr99_t30_multicam",
+		"_parent": "5448e53e4bdc2d60728b4567",
+		"_type": "Item",
+		"_props": {
+			"Name": "Pilgrim",
+			"ShortName": "Pilgrim",
+			"Description": "Pilgrim",
+			"Weight": 2.22,
+			"BackgroundColor": "violet",
+			"Width": 5,
+			"Height": 6,
+			"StackMaxSize": 1,
+			"ItemSound": "gear_backpack",
+			"Prefab": {
+				"path": "assets/content/items/equipment/backpack_gr99t30/item_equipment_backpack_gr99t30_multicam.bundle",
+				"rcid": ""
+			},
+			"UsePrefab": {
+				"path": "",
+				"rcid": ""
+			},
+			"StackObjectsCount": 1,
+			"NotShownInSlot": false,
+			"ExaminedByDefault": false,
+			"ExamineTime": 1,
+			"IsUndiscardable": false,
+			"IsUnsaleable": false,
+			"IsUnbuyable": false,
+			"IsUngivable": false,
+			"IsLockedafterEquip": false,
+			"QuestItem": false,
+			"LootExperience": 20,
+			"ExamineExperience": 10,
+			"HideEntrails": true,
+			"RepairCost": 0,
+			"RepairSpeed": 0,
+			"ExtraSizeLeft": 0,
+			"ExtraSizeRight": 0,
+			"ExtraSizeUp": 0,
+			"ExtraSizeDown": 0,
+			"ExtraSizeForceAdd": false,
+			"MergesWithChildren": false,
+			"CanSellOnRagfair": true,
+			"CanRequireOnRagfair": true,
+			"ConflictingItems": [],
+			"Unlootable": false,
+			"UnlootableFromSlot": "FirstPrimaryWeapon",
+			"UnlootableFromSide": [],
+			"AnimationVariantsNumber": 0,
+			"DiscardingBlock": false,
+			"RagFairCommissionModifier": 1,
+			"IsAlwaysAvailableForInsurance": false,
+			"DiscardLimit": -1,
+			"DropSoundType": "None",
+			"Grids": [
+				{
+					"_name": "main",
+					"_id": "62a1b7fbc30cfa1d366af588",
+					"_parent": "62a1b7fbc30cfa1d366af586",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"54009119af1c881c07000029"
+								],
+								"ExcludedFilter": [
+									"5448bf274bdc2dfc2f8b456a",
+									"5c093db286f7740a1b2617e3",
+									"5e2af55f86f7746d4159f07c",
+									"5c0a840b86f7742ffa4f2482",
+									"5b7c710788a4506dec015957",
+									"5c127c4486f7745625356c13",
+									"5aafbcd986f7745e590fff23",
+									"59fb016586f7746d0d4b423a",
+									"59fb042886f7746c5005a7b2",
+									"59fb023c86f7746d0d4b423c",
+									"5b6d9ce188a4501afc1b2b25"
+								]
+							}
+						],
+						"cellsH": 5,
+						"cellsV": 6,
+						"minCount": 0,
+						"maxCount": 0,
+						"maxWeight": 0,
+						"isSortingTable": false
+					},
+					"_proto": "55d329c24bdc2d892f8b4567"
+				}
+			],
+			"Slots": [],
+			"CanPutIntoDuringTheRaid": true,
+			"CantRemoveFromSlotsDuringRaid": [],
+			"SearchSound": "looting_body_extended",
+			"BlocksArmorVest": false,
+			"speedPenaltyPercent": -8,
+			"GridLayoutName": ""
+		},
+		"_proto": "544a5cde4bdc2d39388b456b"
+	},
+	{
+		"_id": "618bb76513f5097c8d5aa2d5",
+		"_name": "item_equipment_backpack_gr99t20",
+		"_parent": "5448e53e4bdc2d60728b4567",
+		"_type": "Item",
+		"_props": {
+			"Name": "Very Wild Backpack",
+			"ShortName": "VWB",
+			"Description": "Very Wild Backpack",
+			"Weight": 1.8,
+			"BackgroundColor": "violet",
+			"Width": 5,
+			"Height": 5,
+			"StackMaxSize": 1,
+			"ItemSound": "gear_backpack",
+			"Prefab": {
+				"path": "assets/content/items/equipment/backpack_gr99t20/item_equipment_backpack_gr99t20_olive.bundle",
+				"rcid": ""
+			},
+			"UsePrefab": {
+				"path": "",
+				"rcid": ""
+			},
+			"StackObjectsCount": 1,
+			"NotShownInSlot": false,
+			"ExaminedByDefault": false,
+			"ExamineTime": 1,
+			"IsUndiscardable": false,
+			"IsUnsaleable": false,
+			"IsUnbuyable": false,
+			"IsUngivable": false,
+			"IsLockedafterEquip": false,
+			"QuestItem": false,
+			"LootExperience": 20,
+			"ExamineExperience": 2,
+			"HideEntrails": true,
+			"RepairCost": 0,
+			"RepairSpeed": 0,
+			"ExtraSizeLeft": 0,
+			"ExtraSizeRight": 0,
+			"ExtraSizeUp": 0,
+			"ExtraSizeDown": 0,
+			"ExtraSizeForceAdd": false,
+			"MergesWithChildren": false,
+			"CanSellOnRagfair": true,
+			"CanRequireOnRagfair": true,
+			"ConflictingItems": [],
+			"Unlootable": false,
+			"UnlootableFromSlot": "FirstPrimaryWeapon",
+			"UnlootableFromSide": [],
+			"AnimationVariantsNumber": 0,
+			"DiscardingBlock": false,
+			"RagFairCommissionModifier": 1,
+			"IsAlwaysAvailableForInsurance": false,
+			"DiscardLimit": -1,
+			"DropSoundType": "None",
+			"Grids": [
+				{
+					"_name": "main",
+					"_id": "618bb76513f5097c8d5aa2d7",
+					"_parent": "618bb76513f5097c8d5aa2d5",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"54009119af1c881c07000029"
+								],
+								"ExcludedFilter": [
+									"5448bf274bdc2dfc2f8b456a",
+									"5c093db286f7740a1b2617e3",
+									"5e2af55f86f7746d4159f07c",
+									"5c0a840b86f7742ffa4f2482",
+									"5b7c710788a4506dec015957",
+									"5c127c4486f7745625356c13",
+									"5aafbcd986f7745e590fff23",
+									"59fb016586f7746d0d4b423a",
+									"59fb042886f7746c5005a7b2",
+									"59fb023c86f7746d0d4b423c",
+									"5b6d9ce188a4501afc1b2b25"
+								]
+							}
+						],
+						"cellsH": 5,
+						"cellsV": 5,
+						"minCount": 0,
+						"maxCount": 0,
+						"maxWeight": 0,
+						"isSortingTable": false
+					},
+					"_proto": "55d329c24bdc2d892f8b4567"
+				}
+			],
+			"Slots": [],
+			"CanPutIntoDuringTheRaid": true,
+			"CantRemoveFromSlotsDuringRaid": [],
+			"SearchSound": "looting_body_extended",
+			"BlocksArmorVest": false,
+			"speedPenaltyPercent": -2,
+			"GridLayoutName": ""
+		},
+		"_proto": "545cdae64bdc2d39198b4568"
+	},
+	{
+		"_id": "619cf0335771dd3c390269ae",
+		"_name": "item_equipment_backpack_gr99t20_multicam",
+		"_parent": "5448e53e4bdc2d60728b4567",
+		"_type": "Item",
+		"_props": {
+			"Name": "Very Wild Backpack",
+			"ShortName": "VWB",
+			"Description": "Very Wild Backpack",
+			"Weight": 1.8,
+			"BackgroundColor": "violet",
+			"Width": 5,
+			"Height": 5,
+			"StackMaxSize": 1,
+			"ItemSound": "gear_backpack",
+			"Prefab": {
+				"path": "assets/content/items/equipment/backpack_gr99t20/item_equipment_backpack_gr99t20_multicam.bundle",
+				"rcid": ""
+			},
+			"UsePrefab": {
+				"path": "",
+				"rcid": ""
+			},
+			"StackObjectsCount": 1,
+			"NotShownInSlot": false,
+			"ExaminedByDefault": false,
+			"ExamineTime": 1,
+			"IsUndiscardable": false,
+			"IsUnsaleable": false,
+			"IsUnbuyable": false,
+			"IsUngivable": false,
+			"IsLockedafterEquip": false,
+			"QuestItem": false,
+			"LootExperience": 20,
+			"ExamineExperience": 2,
+			"HideEntrails": true,
+			"RepairCost": 0,
+			"RepairSpeed": 0,
+			"ExtraSizeLeft": 0,
+			"ExtraSizeRight": 0,
+			"ExtraSizeUp": 0,
+			"ExtraSizeDown": 0,
+			"ExtraSizeForceAdd": false,
+			"MergesWithChildren": false,
+			"CanSellOnRagfair": true,
+			"CanRequireOnRagfair": true,
+			"ConflictingItems": [],
+			"Unlootable": false,
+			"UnlootableFromSlot": "FirstPrimaryWeapon",
+			"UnlootableFromSide": [],
+			"AnimationVariantsNumber": 0,
+			"DiscardingBlock": false,
+			"RagFairCommissionModifier": 1,
+			"IsAlwaysAvailableForInsurance": false,
+			"DiscardLimit": -1,
+			"DropSoundType": "None",
+			"Grids": [
+				{
+					"_name": "main",
+					"_id": "619cf0335771dd3c390269b0",
+					"_parent": "619cf0335771dd3c390269ae",
+					"_props": {
+						"filters": [
+							{
+								"Filter": [
+									"54009119af1c881c07000029"
+								],
+								"ExcludedFilter": [
+									"5448bf274bdc2dfc2f8b456a",
+									"5c093db286f7740a1b2617e3",
+									"5e2af55f86f7746d4159f07c",
+									"5c0a840b86f7742ffa4f2482",
+									"5b7c710788a4506dec015957",
+									"5c127c4486f7745625356c13",
+									"5aafbcd986f7745e590fff23",
+									"59fb016586f7746d0d4b423a",
+									"59fb042886f7746c5005a7b2",
+									"59fb023c86f7746d0d4b423c",
+									"5b6d9ce188a4501afc1b2b25"
+								]
+							}
+						],
+						"cellsH": 5,
+						"cellsV": 5,
+						"minCount": 0,
+						"maxCount": 0,
+						"maxWeight": 0,
+						"isSortingTable": false
+					},
+					"_proto": "55d329c24bdc2d892f8b4567"
+				}
+			],
+			"Slots": [],
+			"CanPutIntoDuringTheRaid": true,
+			"CantRemoveFromSlotsDuringRaid": [],
+			"SearchSound": "looting_body_extended",
+			"BlocksArmorVest": false,
+			"speedPenaltyPercent": -2,
+			"GridLayoutName": ""
+		},
+		"_proto": "545cdae64bdc2d39198b4568"
+	}
+]

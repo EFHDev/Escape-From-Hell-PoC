@@ -1,0 +1,54 @@
+{
+  "name": "Server",
+  "version": "3.0.3",
+  "author": "AE-Team, JET Team, Paulov, Kestrel.0",
+  "license": "MIT",
+  "scripts": {
+    "start": "node core/update.js",
+    "generate-docs": "jsdoc -c jsdoc.json -r .",
+    "package": "pkg .",
+    "debug": "node core/update.js --trace-warnings"
+  },
+  "dependencies": {
+    "@octokit/rest": "^19.0.7",
+    "7zip-bin": "^5.2.0",
+    "adm-zip": "^0.5.10",
+    "chalk": "^4.1.2",
+    "cli-progress": "^3.12.0",
+    "compression": "^1.7.4",
+    "cookie-parser": "^1.4.6",
+    "crypto": "^1.0.1",
+    "decimal-adjust": "^0.0.0",
+    "docdash": "^1.2.0",
+    "ejs": "^3.1.7",
+    "express": "^4.18.1",
+    "https": "^1.0.0",
+    "mathjs": "^10.6.1",
+    "node-7z": "^3.0.0",
+    "node-fetch": "^3.3.1",
+    "node-fetch-commonjs": "^3.2.4",
+    "node-unrar-js": "^2.0.0",
+    "pkg": "^5.8.0",
+    "selfsigned": "^2.0.1",
+    "unrar": "^0.2.0",
+    "uuid": "^8.3.2",
+    "write-json-file": "^4.3.0",
+    "ws": "^8.8.1"
+  },
+  "bin": "bin/www.js",
+  "pkg": {
+    "scripts": [
+      "core/**/*.js",
+      "src/**/*.js"
+    ],
+    "assets": [
+      "res/**/*",
+      "db/**/*",
+      "public/**/*",
+      "express/views/**/*"
+    ],
+    "targets": [
+      "node16-win"
+    ]
+  }
+}

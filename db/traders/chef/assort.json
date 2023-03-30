@@ -1,0 +1,108 @@
+{
+  "items": [
+    {
+      "_id": "oatflakes",
+      "_tpl": "57347d90245977448f7b7f65",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "StackObjectsCount": 96992,
+        "BuyRestrictionMax": 5,
+        "BuyRestrictionCurrent": 0
+      }
+    },
+    {
+      "_id": "emengencywater",
+      "_tpl": "60098b1705871270cd5352a1",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "StackObjectsCount": 96992,
+        "BuyRestrictionMax": 5,
+        "BuyRestrictionCurrent": 0
+      }
+    },
+    {
+      "_id": "crackas",
+      "_tpl": "5448ff904bdc2d6f028b456e",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "StackObjectsCount": 96992,
+        "BuyRestrictionMax": 5,
+        "BuyRestrictionCurrent": 0
+      }
+    },
+    {
+      "_id": "squash",
+      "_tpl": "57347d8724597744596b4e76",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "StackObjectsCount": 96992,
+        "BuyRestrictionMax": 5,
+        "BuyRestrictionCurrent": 0
+      }
+    },
+    {
+      "_id": "applejooice",
+      "_tpl": "57513f07245977207e26a311",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "StackObjectsCount": 96992,
+        "BuyRestrictionMax": 5,
+        "BuyRestrictionCurrent": 0
+      }
+    }
+  ],
+  "barter_scheme": {
+    "applejooice": [
+      [
+        {
+          "count": 90.08,
+          "_tpl": "5696686a4bdc2da3298b456a"
+        }
+      ]
+    ],
+    "crackas": [
+      [
+        {
+          "count": 90.08,
+          "_tpl": "5696686a4bdc2da3298b456a"
+        }
+      ]
+    ],
+    "emengencywater": [
+      [
+        {
+          "count": 90.08,
+          "_tpl": "5696686a4bdc2da3298b456a"
+        }
+      ]
+    ],
+    "squash": [
+      [
+        {
+          "count": 1,
+          "_tpl": "efh_barter_rationcard"
+        }
+      ]
+    ],
+    "oatflakes": [
+      [
+        {
+          "count": 90.08,
+          "_tpl": "5696686a4bdc2da3298b456a"
+        }
+      ]
+    ]
+  },
+  "loyal_level_items": {
+    "squash": 1,
+    "oatflakes": 1,
+    "emengencywater": 1,
+    "applejooice": 1,
+    "crackas": 1
+  }
+}

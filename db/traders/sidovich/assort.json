@@ -1,0 +1,440 @@
+{
+  "items": [
+    {
+      "_id": "flashdrivefir",
+      "_tpl": "590c621186f774138d11ea29",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": false,
+        "StackObjectsCount": 6
+      }
+    },
+    {
+      "_id": "gasantrade",
+      "_tpl": "590a3efd86f77437d351a25b",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 5
+      }
+    },
+    {
+      "_id": "flirtrade",
+      "_tpl": "5d1b5e94d7ad1a2b865a96b0",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": false,
+        "StackObjectsCount": 1
+      }
+    },
+    {
+      "_id": "g36ctrade",
+      "_tpl": "623063e994fc3f7b302a9696",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "Foldable": {
+          "Folded": false
+        },
+        "FireMode": {
+          "FireMode": "single"
+        },
+        "StackObjectsCount": 19913,
+        "BuyRestrictionMax": 4,
+        "BuyRestrictionCurrent": 0
+      }
+    },
+    {
+      "_id": "g36cmagazine",
+      "_tpl": "62307b7b10d2321fa8741921",
+      "parentId": "g36ctrade",
+      "slotId": "mod_magazine"
+    },
+    {
+      "_id": "g36cstock",
+      "_tpl": "622f140da5958f63c67f1735",
+      "parentId": "g36ctrade",
+      "slotId": "mod_stock"
+    },
+    {
+      "_id": "g36ctradebarrel",
+      "_tpl": "622b38c56762c718e457e246",
+      "parentId": "g36ctrade",
+      "slotId": "mod_barrel"
+    },
+    {
+      "_id": "g36ctrademuzzle",
+      "_tpl": "622f128cec80d870d349b4e8",
+      "parentId": "g36ctradebarrel",
+      "slotId": "mod_muzzle"
+    },
+    {
+      "_id": "g36ctradegasblock",
+      "_tpl": "622b327b267a1b13a44abea3",
+      "parentId": "g36ctradebarrel",
+      "slotId": "mod_gas_block"
+    },
+    {
+      "_id": "g36chandguard",
+      "_tpl": "6231654c71b5bc3baa1078e5",
+      "parentId": "g36ctrade",
+      "slotId": "mod_handguard"
+    },
+    {
+      "_id": "g36cmount",
+      "_tpl": "622f02437762f55aaa68ac85",
+      "parentId": "g36ctrade",
+      "slotId": "mod_mount"
+    },
+    {
+      "_id": "g36cscope2",
+      "_tpl": "622b4d7df9cfc87d675d2ded",
+      "parentId": "g36ctrade",
+      "slotId": "mod_scope"
+    },
+    {
+      "_id": "g36cscope3",
+      "_tpl": "622efbcb99f4ea1a4d6c9a15",
+      "parentId": "62bc83c194a0fde72e0a772d",
+      "slotId": "mod_scope"
+    },
+    {
+      "_id": "gphonerepair",
+      "_tpl": "5bc9b720d4351e450201234b",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 1
+      }
+    },
+    {
+      "_id": "wirestrade",
+      "_tpl": "5c06779c86f77426e00dd782",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": false,
+        "StackObjectsCount": 503
+      }
+    },
+    {
+      "_id": "comtac4trade",
+      "_tpl": "5645bcc04bdc2d363b8b4572",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": false,
+        "StackObjectsCount": 14
+      }
+    },
+    {
+      "_id": "m32barter",
+      "_tpl": "6033fa48ffd42c541047f728",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": false,
+        "StackObjectsCount": 14
+      }
+    },
+    {
+      "_id": "gsshbarter",
+      "_tpl": "5645bcc04bdc2d363b8b4572",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": false,
+        "StackObjectsCount": 14
+      }
+    },
+    {
+      "_id": "sordintrade",
+      "_tpl": "5aa2ba71e5b5b000137b758f",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": false,
+        "StackObjectsCount": 5
+      }
+    },
+    {
+      "_id": "bitcointrade",
+      "_tpl": "59faff1d86f7746c51718c9c",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": false,
+        "StackObjectsCount": 3
+      }
+    },
+    {
+      "_id": "gputrade",
+      "_tpl": "590a3efd86f77437d351a25b",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 5
+      }
+    },
+    {
+      "_id": "cputrade",
+      "_tpl": "5734779624597737e04bf329",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": false,
+        "StackObjectsCount": 10
+      }
+    },
+    {
+      "_id": "lightbulbtrade",
+      "_tpl": "5d1b392c86f77425243e98fe",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": false,
+        "StackObjectsCount": 10
+      }
+    },
+    {
+      "_id": "powercord",
+      "_tpl": "59e36c6f86f774176c10a2a7",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": false,
+        "StackObjectsCount": 10
+      }
+    },
+    {
+      "_id": "capstrade",
+      "_tpl": "5c06782b86f77426df5407d2",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": false,
+        "StackObjectsCount": 10
+      }
+    },
+    {
+      "_id": "rfidripper",
+      "_tpl": "5c052fb986f7746b2101e909",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": false,
+        "StackObjectsCount": 10
+      }
+    }
+  ],
+  "barter_scheme": {
+    "flashdrivefir": [
+      [
+        {
+          "count": 1,
+          "_tpl": "5e2aedd986f7746d404f3aa4"
+        },
+        {
+          "count": 2,
+          "_tpl": "57347cd0245977445a2d6ff1"
+        }
+      ]
+    ],
+    "flirtrade": [
+      [
+        {
+          "count": 1,
+          "_tpl": "57347ca924597744596b4e71"
+        },
+        {
+          "count": 1,
+          "_tpl": "59faff1d86f7746c51718c9c"
+        }
+      ]
+    ],
+    "g36ctrade": [
+      [
+        {
+          "count": 1,
+          "_tpl": "5d0377ce86f774186372f689"
+        },
+        {
+          "count": 1000,
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+      ]
+    ],
+    "gphonerepair": [
+      [
+        {
+          "count": 1,
+          "_tpl": "5c1265fc86f7743f896a21c2"
+        },
+        {
+          "count": 1,
+          "_tpl": "5d1b304286f774253763a528"
+        },
+        {
+          "count": 1,
+          "_tpl": "590a358486f77429692b2790"
+        }
+      ]
+    ],
+    "wirestrade": [
+      [
+        {
+          "count": 8312,
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+      ]
+    ],
+    "comtac4trade": [
+      [
+        {
+          "count": 1,
+          "_tpl": "5e2aedd986f7746d404f3aa4"
+        },
+        {
+          "count": 10932,
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+      ]
+    ],
+    "m32barter": [
+      [
+        {
+          "count": 1,
+          "_tpl": "57347cd0245977445a2d6ff1"
+        },
+        {
+          "count": 13289,
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+      ]
+    ],
+    "gsshbarter": [
+      [
+        {
+          "count": 13532,
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+      ]
+    ],
+    "sordintrade": [
+      [
+        {
+          "count": 1,
+          "_tpl": "efh_schlagger"
+        },
+        {
+          "count": 13289,
+          "_tpl": "5696686a4bdc2da3298b456a"
+        }
+      ]
+    ],
+    "powercord": [
+      [
+        {
+          "count": 12300,
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+      ]
+    ],
+    "gputrade": [
+      [
+        {
+          "count": 1,
+          "_tpl": "5c05300686f7746dce784e5d"
+        },
+        {
+          "count": 3,
+          "_tpl": "573477e124597737dd42e191"
+        },
+        {
+          "count": 1,
+          "_tpl": "590a3b0486f7743954552bdb"
+        }
+      ]
+    ],
+    "bitcointrade": [
+      [
+        {
+          "count": 13532,
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        },
+        {
+          "count": 1,
+          "_tpl": "57347ca924597744596b4e71"
+        }
+      ]
+    ],
+    "capstrade": [
+      [
+        {
+          "count": 8390,
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+      ]
+    ],
+    "lightbulbtrade": [
+      [
+        {
+          "count": 2300,
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+      ]
+    ],
+    "rfidripper": [
+      [
+        {
+          "count": 1,
+          "_tpl": "5c12620d86f7743f8b198b72"
+        }
+      ]
+    ],
+    "cputrade": [
+      [
+        {
+          "count": 1,
+          "_tpl": "57347cd0245977445a2d6ff1"
+        }
+      ]
+    ],
+  "gasantrade": [
+    [
+      {
+        "count": 1,
+        "_tpl": "590a3b0486f7743954552bdb"
+      },
+      {
+        "count": 1,
+        "_tpl": "573477e124597737dd42e191"
+      }
+    ]
+  ]
+  },
+  "loyal_level_items": {
+    "flashdrivefir": 1,
+    "rfidripper": 1,
+    "gasantrade": 1,
+    "powercord": 1,
+    "cputrade": 1,
+    "capstrade": 1,
+    "gputrade": 1,
+    "lightbulbtrade": 1,
+    "flirtrade": 1,
+    "gphonerepair": 1,
+    "wirestrade": 1,
+    "comtac4trade": 1,
+    "m32barter": 1,
+    "gsshbarter": 1,
+    "sordintrade": 1,
+    "bitcointrade": 1,
+    "g36ctrade":1
+  }
+}
